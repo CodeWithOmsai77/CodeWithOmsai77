@@ -123,14 +123,6 @@ To become an engineer capable of designing **advanced computing systems from sof
 
 </p>
 
-## 🌐 Connect with me:
 
-<p align="left">
-<a href="https://github.com/CodeWithOmsai77" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40"/>
-</a>
-</p>
-
----
 
 

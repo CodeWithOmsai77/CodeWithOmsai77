@@ -94,3 +94,7 @@ To become an engineer capable of designing **advanced computing systems from sof
 ⭐ Always Learning • Always Building
 
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/CodeWithOmsai77/CodeWithOmsai77/output/github-contribution-grid-snake.svg"/>
+</p>

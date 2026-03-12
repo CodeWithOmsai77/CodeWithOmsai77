@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Omsai 👋
 
-<!--
-**CodeWithOmsai77/CodeWithOmsai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring engineer interested in programming, computer architecture, and chip design.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning **Python programming**
+* Practicing **problem solving and algorithms**
+* Interested in **VLSI / Chip Design**
+* Exploring **computer architecture**
+
+## 🛠️ Technologies I'm Learning
+
+* Python
+* Git & GitHub
+* Data Structures
+* Object-Oriented Programming
+
+## 📂 My Projects
+
+Here are some projects I built while learning Python:
+
+* **Calculator** – performs basic arithmetic operations
+* **Snake Water Gun Game** – a Python version of the classic game
+* **Perfect Guess the Number** – number guessing game using random module
+
+You can find them in my repository:
+👉 python-projects
+
+## 📚 Learning Repositories
+
+* python-learning – chapter-wise Python programs and practice sets
+* python-projects – simple Python projects
+
+## 🎯 Goals
+
+* Improve programming skills
+* Learn computer architecture
+* Move towards **chip design and hardware engineering**
+
+## 📈 Currently Learning
+
+* Python
+* Data structures
+* Problem solving
+
+---
+
+⭐ Always learning and improving.

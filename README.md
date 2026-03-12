@@ -62,13 +62,6 @@ More projects coming soon 🚀
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithOmsai77&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 
 # 🎯 Long-Term Goal

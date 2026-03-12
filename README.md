@@ -21,18 +21,60 @@
 
 ---
 
-# 🛠 Technologies & Tools
+## 🛠 Languages i'm learning
 
-<p align="center">
+<p align="left">
 
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/>
+
 <img src="https://img.shields.io/badge/Verilog-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xilinx-Vivado-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multisim-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Linux-Terminal-grey?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VHDL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCL-lightgrey?style=for-the-badge"/>
 
 </p>
+
+---
+
+## 🔧 Tools & Frameworks i'm learning
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+
+<img src="https://img.shields.io/badge/ROS2-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow%20Lite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ONNX%20Runtime-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Yosys-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenLane-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenROAD-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V%20Spike-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Makerchip-teal?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PlatformIO-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💻 IDEs & Editors
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
+
+</p>
+
 
 ---
 
@@ -80,5 +122,15 @@ To become an engineer capable of designing **advanced computing systems from sof
 ⭐ Always Learning • Always Building
 
 </p>
+
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://github.com/CodeWithOmsai77" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40"/>
+</a>
+</p>
+
+---
 
 

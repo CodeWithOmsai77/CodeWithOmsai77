@@ -1,49 +1,87 @@
 # Hi, I'm Omsai 👋
 
-Aspiring engineer interested in programming, computer architecture, and chip design.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Engineer;Programming+Enthusiast;Exploring+Computer+Architecture;Future+Chip+Designer;Robotics+Explorer&center=true&width=500&height=45">
+</p>
 
-## 🚀 About Me
+🚀 Aspiring engineer exploring **programming, computer architecture, chip design, electronics, embedded systems, and robotics.**
 
-* Learning **Python programming**
-* Practicing **problem solving and algorithms**
-* Interested in **VLSI / Chip Design**
-* Exploring **computer architecture**
-
-## 🛠️ Technologies I'm Learning
-
-* Python
-* Git & GitHub
-* Data Structures
-* Object-Oriented Programming
-
-## 📂 My Projects
-
-Here are some projects I built while learning Python:
-
-* **Calculator** – performs basic arithmetic operations
-* **Snake Water Gun Game** – a Python version of the classic game
-* **Perfect Guess the Number** – number guessing game using random module
-
-You can find them in my repository:
-👉 python-projects
-
-## 📚 Learning Repositories
-
-* python-learning – chapter-wise Python programs and practice sets
-* python-projects – simple Python projects
-
-## 🎯 Goals
-
-* Improve programming skills
-* Learn computer architecture
-* Move towards **chip design and hardware engineering**
-
-## 📈 Currently Learning
-
-* Python
-* Data structures
-* Problem solving
+I enjoy building projects and learning how **hardware and software work together to create intelligent systems.**
 
 ---
 
-⭐ Always learning and improving.
+## 🔧 Engineering Interests
+
+* 💻 Programming & Software Development
+* 🧠 Computer Architecture
+* 🔬 VLSI / Chip Design
+* ⚙️ Embedded Systems
+* 🤖 Robotics & Automation
+* 🔋 Electronics Design
+
+---
+
+## 📚 Currently Learning
+
+* Programming fundamentals & problem solving
+* Digital electronics and logic design
+* Computer architecture concepts
+* Software engineering practices
+* Hardware–software system design
+
+---
+
+## 📂 Projects
+
+Some projects I built while learning programming:
+
+* 🧮 Calculator
+* 🎮 Snake Water Gun Game
+* 🔢 Perfect Guess the Number
+
+More projects coming soon.
+
+---
+
+## 🛠 Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Programming-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-GitHub-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Electronics-Hardware-green?style=for-the-badge">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWithOmsai77&show_icons=true&theme=tokyonight">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight">
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithOmsai77&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🎯 Long-Term Goal
+
+To become an engineer capable of designing **advanced computing systems — from software to silicon — including chips, embedded systems, and intelligent machines.**
+
+---
+
+⭐ Always learning. Always building.

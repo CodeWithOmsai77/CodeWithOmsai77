@@ -5,8 +5,9 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Engineer;Programming+Enthusiast;Future+Chip+Designer;Electronics+%26+Robotics+Explorer;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Engineer;Programming+Enthusiast;Future+Chip+Designer;Electronics+%26+Robotics+Explorer;Building+Projects+Every+Day;Verilog+%7C+SystemVerilog+%7C+VHDL;C+%7C+C%2B%2B+%7C+Python;TCL+%7C+Bash+%7C+MATLAB;ROS2+%7C+FreeRTOS;OpenCV+%7C+TensorFlow+%7C+PyTorch;Yosys+%7C+OpenLane+%7C+OpenROAD;RISC-V+%7C+Spike+Simulator;Docker+%7C+Git+%7C+Linux;VS+Code+%7C+Jupyter+Notebook" />
 </p>
+
 
 ---
 
@@ -122,7 +123,6 @@ To become an engineer capable of designing **advanced computing systems from sof
 ⭐ Always Learning • Always Building
 
 </p>
-
 
 
 

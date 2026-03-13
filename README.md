@@ -93,13 +93,11 @@
 
 ---
 
-# 📂 Projects
+## 📈 Contribution Graph
 
-🧮 Calculator
-🎮 Snake Water Gun Game
-🔢 Perfect Guess the Number
-
-More projects coming soon 🚀
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&theme=tokyo-night"/>
+</p>
 
 
 

@@ -26,12 +26,12 @@
 
 <p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/>
-
 <img src="https://img.shields.io/badge/Verilog-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VHDL-blue?style=for-the-badge"/>
@@ -92,12 +92,6 @@
 More projects coming soon 🚀
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithOmsai77&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 

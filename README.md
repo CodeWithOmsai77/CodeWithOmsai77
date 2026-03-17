@@ -96,7 +96,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=2f81f7&line=2f81f7&point=FFFFF0&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=2f81f7&line=2f81f7&point=D3D3D3&area=true&hide_border=true"/>
 </p>
 
 

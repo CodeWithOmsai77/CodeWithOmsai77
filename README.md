@@ -220,11 +220,12 @@ To become an engineer capable of building **complete computing systems** — fro
 </p>
 
 ---
+<p align="center">
 <b>⭐ Honest Skills • Real Projects • Deep Learning • Consistent Growth</b>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontSize=16&fontColor=ffffff"/>
 </p>
-<p align="center">
+
   
 

@@ -28,82 +28,161 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Engineering Roadmap — Skills I’m Building
 
-### 👨‍💻 Core Programming
+> ⚠️ Following a structured **6-phase engineering roadmap**
+> ✔ Skills are added **only after real implementation**
+> ❌ No fake claims • No shortcuts • Only real progress
+
+---
+
+### ✅ Current Skillset (Built & Practiced)
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python — OOP, Data Structures, File Handling"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C — Core Concepts, Pointers (Basics)"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++ — Fundamentals"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java — OOP Basics"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git — Version Control"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub — Project Management"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code — Development Environment"/>
+</p>
+
+```
+Digital Electronics  → Logic Gates, Flip-Flops, Combinational & Sequential Circuits
+Microcontroller      → 8051 (Hardware project implemented)
+Python               → OOP, Inheritance, Data Structures, File Handling
+C Programming        → Core Concepts, Functions, Pointers (Basic Level)
+C++ / Java           → Fundamentals of OOP
+```
+
+---
+
+### 🌱 Currently Learning (Active Focus)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog_HDL-Active_Learning-FF4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bitwise_Operations_C-Deep_Dive-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux_(WSL2)-Environment_Setup-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HDLBits-Daily_Practice-0099FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPTEL_VLSI-Course_Enrolled-green?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔬 Hardware & Low-Level Design
+### 🧭 6-Phase Engineering Roadmap
 
-<p align="left">
-<img src="https://img.shields.io/badge/Verilog-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VHDL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCL-lightgrey?style=for-the-badge"/>
+| Phase                   | Focus Area            | Key Skills                                |
+| ----------------------- | --------------------- | ----------------------------------------- |
+| **Phase 1** ← *Current* | Foundation            | Verilog, Advanced C, Linux, Git           |
+| **Phase 2**             | VLSI Core             | SystemVerilog, UVM, STA, OpenLane, RISC-V |
+| **Phase 3**             | Embedded Systems      | KiCad, STM32, FreeRTOS, LTSpice           |
+| **Phase 4**             | Robotics & Automation | ROS2, OpenCV, Gazebo, PLC                 |
+| **Phase 5**             | Software Engineering  | Advanced C++, DSA, Docker                 |
+| **Phase 6**             | AI Hardware Systems   | TensorFlow, Edge AI, NPUs, Chiplets       |
+
+---
+
+<p align="center">
+⚡ From Logic Gates → to Intelligent Hardware Systems
+</p>
+---
+## 📌 Featured Projects — Engineering Progress Tracker
+
+<p align="center">
+🚀 From Fundamentals → to Intelligent Hardware Systems  
 </p>
 
 ---
 
-### 🏭 Chip Design / VLSI Tools
+### 🔹 Phase 1 — Foundation ✅
 
-<p align="left">
-<img src="https://img.shields.io/badge/Yosys-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenLane-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenROAD-darkblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Makerchip-teal?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V%20Spike-red?style=for-the-badge"/>
+<p align="center">
+██████████████░░░░░░░░░░ 55%
 </p>
+
+* 🧠 **8051 Microcontroller Project** <sub>✔ Hardware Interfacing • Control Logic • Real Implementation</sub>
+  🔗 *(Add GitHub link here)*
+
+* 💻 **C Programming Practice Suite** <sub>✔ Loops • Functions • Arrays • Pointers</sub>
+  🔗 *(Add GitHub link here)*
+
+* ☕ **Java OOP Programs** <sub>✔ Classes • Objects • Constructors • Methods</sub>
+  🔗 *(Add GitHub link here)*
 
 ---
 
-### 🤖 AI / Computer Vision (Exploration)
+### 🔹 Phase 2 — VLSI ⚡ (In Progress)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-<img src="https://img.shields.io/badge/TensorFlow%20Lite-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ONNX%20Runtime-black?style=for-the-badge"/>
+<p align="center">
+███░░░░░░░░░░░░░░░░ 35%
 </p>
+
+* ⚙️ **Verilog HDL Practice (HDLBits)** <sub>🔄 RTL Design • Digital Logic Implementation</sub>
+
+* 🧩 **ALU Design (Planned)** <sub>🎯 Arithmetic Logic Unit using Verilog</sub>
 
 ---
 
-### ⚙️ Systems & Tools
+### 🔹 Phase 3 — Embedded Systems 🔜
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img src="https://img.shields.io/badge/ROS2-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PlatformIO-orange?style=for-the-badge"/>
+<p align="center">
+██░░░░░░░░░░░░░░░░░░ 10%
 </p>
 
+* 🔌 **STM32 Embedded Projects** <sub>⚙ Real-Time Control • Sensor Integration</sub>
 
-
-
+* ⏱ **FreeRTOS System Design** <sub>🧠 Task Scheduling • Multitasking Systems</sub>
 
 ---
 
-### 💻 IDEs & Editors
+### 🔹 Phase 4 — Robotics 🤖
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="45"/>
+<p align="center">
+░░░░░░░░░░░░░░░░░░░░ 0%
 </p>
 
+* 🤖 **ROS2 Robot System** <sub>📡 Navigation • Sensors • Automation</sub>
+
+* 📷 **Computer Vision System** <sub>👁 Object Detection • Tracking</sub>
+
 ---
+
+### 🔹 Phase 5 — Software Engineering 💻
+
+<p align="center">
+░░░░░░░░░░░░░░░░░░░░ 0%
+</p>
+
+* 🧠 **DSA & Problem Solving** <sub>⚡ Algorithms • Optimization</sub>
+
+* 🐳 **Dockerized Applications** <sub>📦 Deployment • Containers</sub>
+
+---
+
+### 🔹 Phase 6 — AI Hardware Systems ⚡
+
+<p align="center">
+░░░░░░░░░░░░░░░░░░░░ 0%
+</p>
+
+* 🧠 **Edge AI Systems** <sub>⚙ ML on Embedded Devices</sub>
+
+* ⚡ **Hardware Acceleration Concepts** <sub>🚀 NPUs • Custom Chips</sub>
+
+---
+
+<p align="center">
+💎 <b>Progressing step-by-step towards becoming a System & Chip Engineer</b>
+</p>
+
+
 
 ## 📈 GitHub Activity
 
@@ -132,8 +211,21 @@ To become an engineer capable of building **complete computing systems** — fro
 
 ---
 
-<p align="center">
+## 📬 Connect With Me
 
-⭐ Always Learning • Always Building • Always Improving
-
+<p align="left">
+  <a href="https://github.com/CodeWithOmsai77">
+    <img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontSize=16&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <b>⭐ Honest Skills • Real Projects • Deep Learning • Consistent Growth</b>
+</p>
+

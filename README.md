@@ -108,13 +108,13 @@ C++ / Java           → Fundamentals of OOP
 </p>
 
 * 🧠 **8051 Microcontroller Project** <sub>✔ Hardware Interfacing • Control Logic • Real Implementation</sub>
-  🔗 *(Add GitHub link here)*
+  
 
 * 💻 **C Programming Practice Suite** <sub>✔ Loops • Functions • Arrays • Pointers</sub>
-  🔗 *(Add GitHub link here)*
+  
 
 * ☕ **Java OOP Programs** <sub>✔ Classes • Objects • Constructors • Methods</sub>
-  🔗 *(Add GitHub link here)*
+  
 
 ---
 

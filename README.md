@@ -157,7 +157,7 @@ C++ / Java           → Fundamentals of OOP
 ### 🔹 Phase 5 — Software Engineering 💻
 
 <p align="center">
-░░░░░░░░░░░░░░░░░░░░ 0%
+████████████░░░░░░░░░ 60%
 </p>
 
 * 🧠 **DSA & Problem Solving** <sub>⚡ Algorithms • Optimization</sub>

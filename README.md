@@ -108,7 +108,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=0d1117&color=58a6ff&line=00f7ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true"/>
 </p>
 
 ---

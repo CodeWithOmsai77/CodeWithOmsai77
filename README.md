@@ -199,7 +199,7 @@ C++ / Java           → Fundamentals of OOP
 <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_border=true&background=transparent&cache_seconds=0"/>
 </p>
 
-
+---
 ## 🎯 Long-Term Goal
 
 To become an engineer capable of building **complete computing systems** — from **software → hardware → silicon**, including:

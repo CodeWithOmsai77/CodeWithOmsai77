@@ -104,7 +104,7 @@ C++ / Java           → Fundamentals of OOP
 ### 🔹 Phase 1 — Foundation ✅
 
 <p align="center">
-██████████████░░░░░░░░░░ 55%
+███████████░░░░░░░░░ 55%
 </p>
 
 * 🧠 **8051 Microcontroller Project** <sub>✔ Hardware Interfacing • Control Logic • Real Implementation</sub>

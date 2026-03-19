@@ -34,7 +34,7 @@
 > ✔ Skills are added **only after real implementation**
 > ❌ No fake claims • No shortcuts • Only real progress
 
----
+
 
 ### ✅ Current Skillset (Built & Practiced)
 

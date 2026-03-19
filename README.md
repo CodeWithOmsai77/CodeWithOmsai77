@@ -219,6 +219,14 @@ To become an engineer capable of building **complete computing systems** — fro
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="40" height="40"/>
+  </a>
+</p>
+
+
 ---
 <p align="center">
 <b>⭐ Honest Skills • Real Projects • Deep Learning • Consistent Growth</b>

@@ -63,7 +63,7 @@ VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
 
 ---
 
-## 🛠 Current Skillset
+## 🛠 Core Skills (Learning & Practicing)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
@@ -75,12 +75,13 @@ VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
 </p>
 
 ```
-Digital Electronics  → Logic Gates, Flip-Flops, FSM
-Microcontroller      → 8051 (Hardware Project)
-Python               → OOP, Data Structures
-C Programming        → Core + Pointers (Basic)
-C++ / Java           → OOP Fundamentals
+Digital Electronics  → Concepts Practiced (Logic Gates, FSM, Flip-Flops)
+Microcontroller      → 8051 Project Implemented
+Python               → OOP, Data Structures (Learning)
+C Programming        → Core + Pointers (Learning)
+C++ / Java           → OOP Fundamentals (Learning)
 ```
+
 
 ---
 

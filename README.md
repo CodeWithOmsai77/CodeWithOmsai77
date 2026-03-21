@@ -184,19 +184,14 @@ C++ / Java           → Fundamentals of OOP
 
 
 
-## 📈 GitHub Activity
+## 📊 GitHub Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=2f81f7&line=2f81f7&point=FF4500&area=true&hide_border=true&cache_seconds=0"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=2f81f7&line=2f81f7&point=FF4500&area=true&hide_border=true"/>
 </p>
 
- 
----
-
-## 🔥 Streak Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_border=true&background=transparent&cache_seconds=0&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_border=true&background=transparent"/>
 </p>
 
 
@@ -235,6 +230,4 @@ To become an engineer capable of building **complete computing systems** — fro
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontSize=16&fontColor=ffffff"/>
 </p>
-
-  
 

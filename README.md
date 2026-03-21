@@ -1,190 +1,179 @@
 <h1 align="center">Hi 👋, I'm Omsai</h1>
 
 <h3 align="center">
-🚀 Aspiring Engineer | Software → Hardware | Chip Design • Robotics • Systems
+🚀 Aspiring Engineer | Software → Hardware → Chip Design
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Engineer;Programming+%7C+Electronics+%7C+Systems;Future+Chip+Designer;Building+Projects+Every+Day;Exploring+Low-Level+to+High-Level+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Engineer;Future+VLSI+Engineer;From+Code+to+Chips;Building+Real+Projects;Systems+Thinking+Mindset" />
 </p>
 
 ---
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" style="margin-top:-40px;"/>
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+* 🔬 Focused on **VLSI / Chip Design (Core Goal)**
+* 💻 Strong interest in **Low-Level Systems & Computer Architecture**
+* ⚙️ Building skills in **Embedded Systems & Electronics**
+* 🤖 Exploring **Robotics & Intelligent Systems**
+* 📚 Learning through **real projects — not just theory**
 
-💻 Focused on **Programming & Problem Solving**
+---
+---
 
-🧠 Exploring **Computer Architecture & Low-Level Systems**
+## 🎯 My Engineering Vision
 
-🔬 Deep interest in **VLSI / Chip Design**
+```
+Software → Embedded Systems → Hardware → VLSI → AI Hardware
+```
 
-⚙️ Learning **Embedded Systems & Real-Time Computing**
-
-🤖 Exploring **Robotics & Intelligent Systems**
-
-📚 Consistently building projects and improving every day
+> I am building myself to become an engineer capable of designing **complete computing systems — from code to silicon**
 
 ---
 
-## 🚀 Engineering Roadmap — Skills I’m Building
+## 🔗 How My Skills Connect
 
-> ⚠️ Following a structured **6-phase engineering roadmap**
-> ✔ Skills are added **only after real implementation**
-> ❌ No fake claims • No shortcuts • Only real progress
+```
+VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
+```
 
+---
 
+## 🧭 6-Phase Engineering Roadmap
 
-### ✅ Current Skillset (Built & Practiced)
+| Phase                 | Focus       | Key Skills                      |
+| --------------------- | ----------- | ------------------------------- |
+| **Phase 1 (Current)** | Foundation  | Verilog, C/C++, Linux, Git      |
+| **Phase 2**           | VLSI Core   | SystemVerilog, UVM, STA, RISC-V |
+| **Phase 3**           | Embedded    | STM32, RTOS, PCB Design         |
+| **Phase 4**           | Robotics    | ROS2, OpenCV, Control Systems   |
+| **Phase 5**           | Software    | DSA, Advanced C++, Docker       |
+| **Phase 6**           | Future Tech | AI Hardware, Edge AI, Chiplets  |
+
+---
+
+## 📌 Why This Roadmap?
+
+* ✔ Structured learning (not random topics)
+* ✔ Focus on high-paying core roles (VLSI)
+* ✔ Combines software + hardware advantage
+* ✔ Based on real industry tools
+
+---
+
+## 🛠 Current Skillset
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python — OOP, Data Structures, File Handling"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C — Core Concepts, Pointers (Basics)"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++ — Fundamentals"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java — OOP Basics"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git — Version Control"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub — Project Management"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code — Development Environment"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 </p>
 
 ```
-Digital Electronics  → Logic Gates, Flip-Flops, Combinational & Sequential Circuits
-Microcontroller      → 8051 (Hardware project implemented)
-Python               → OOP, Inheritance, Data Structures, File Handling
-C Programming        → Core Concepts, Functions, Pointers (Basic Level)
-C++ / Java           → Fundamentals of OOP
+Digital Electronics  → Logic Gates, Flip-Flops, FSM
+Microcontroller      → 8051 (Hardware Project)
+Python               → OOP, Data Structures
+C Programming        → Core + Pointers (Basic)
+C++ / Java           → OOP Fundamentals
 ```
 
 ---
 
-### 🌱 Currently Learning (Active Focus)
+## 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog_HDL-Active_Learning-FF4444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bitwise_Operations_C-Deep_Dive-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux_(WSL2)-Environment_Setup-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Verilog-Active-FF4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HDLBits-Daily_Practice-0099FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NPTEL_VLSI-Course_Enrolled-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPTEL-VLSI-green?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧭 6-Phase Engineering Roadmap
-
-| Phase                   | Focus Area            | Key Skills                                |
-| ----------------------- | --------------------- | ----------------------------------------- |
-| **Phase 1** ← *Current* | Foundation            | Verilog, Advanced C, Linux, Git           |
-| **Phase 2**             | VLSI Core             | SystemVerilog, UVM, STA, OpenLane, RISC-V |
-| **Phase 3**             | Embedded Systems      | KiCad, STM32, FreeRTOS, LTSpice           |
-| **Phase 4**             | Robotics & Automation | ROS2, OpenCV, Gazebo, PLC                 |
-| **Phase 5**             | Software Engineering  | Advanced C++, DSA, Docker                 |
-| **Phase 6**             | AI Hardware Systems   | TensorFlow, Edge AI, NPUs, Chiplets       |
-
----
-
-<p align="center">
-⚡ From Logic Gates → to Intelligent Hardware Systems
-</p>
----
-## 📌 Featured Projects — Engineering Progress Tracker
-
-<p align="center">
-🚀 From Fundamentals → to Intelligent Hardware Systems  
-</p>
-
----
+## 📊 Engineering Progress Tracker
 
 ### 🔹 Phase 1 — Foundation ✅
 
-<p align="center">
+```
 ███████████░░░░░░░░░ 55%
-</p>
+```
 
-* 🧠 **8051 Microcontroller Project** <sub>✔ Hardware Interfacing • Control Logic • Real Implementation</sub>
-  
-
-* 💻 **C Programming Practice Suite** <sub>✔ Loops • Functions • Arrays • Pointers</sub>
-  
-
-* ☕ **Java OOP Programs** <sub>✔ Classes • Objects • Constructors • Methods</sub>
-  
+* 🧠 8051 Microcontroller Project
+* 💻 C Programming Practice
+* ☕ Java OOP Programs
 
 ---
 
 ### 🔹 Phase 2 — VLSI ⚡ (In Progress)
 
-<p align="center">
+```
 ███░░░░░░░░░░░░░░░░ 35%
-</p>
+```
 
-* ⚙️ **Verilog HDL Practice (HDLBits)** <sub>🔄 RTL Design • Digital Logic Implementation</sub>
-
-* 🧩 **ALU Design (Planned)** <sub>🎯 Arithmetic Logic Unit using Verilog</sub>
+* ⚙️ Verilog HDL Practice
+* 🧩 ALU Design (Planned)
 
 ---
 
-### 🔹 Phase 3 — Embedded Systems 🔜
+### 🔹 Phase 3 — Embedded 🔜
 
-<p align="center">
+```
 ██░░░░░░░░░░░░░░░░░░ 10%
-</p>
+```
 
-* 🔌 **STM32 Embedded Projects** <sub>⚙ Real-Time Control • Sensor Integration</sub>
-
-* ⏱ **FreeRTOS System Design** <sub>🧠 Task Scheduling • Multitasking Systems</sub>
+* 🔌 STM32 Projects
+* ⏱ FreeRTOS Systems
 
 ---
 
 ### 🔹 Phase 4 — Robotics 🤖
 
-<p align="center">
+```
 ░░░░░░░░░░░░░░░░░░░░ 0%
-</p>
+```
 
-* 🤖 **ROS2 Robot System** <sub>📡 Navigation • Sensors • Automation</sub>
-
-* 📷 **Computer Vision System** <sub>👁 Object Detection • Tracking</sub>
+* 🤖 ROS2 Systems
+* 📷 Computer Vision
 
 ---
 
-### 🔹 Phase 5 — Software Engineering 💻
+### 🔹 Phase 5 — Software 💻
 
-<p align="center">
+```
 ████████████░░░░░░░░░ 60%
-</p>
+```
 
-* 🧠 **DSA & Problem Solving** <sub>⚡ Algorithms • Optimization</sub>
-
-* 🐳 **Dockerized Applications** <sub>📦 Deployment • Containers</sub>
+* 🧠 DSA & Problem Solving
+* 🐳 Docker (Planned)
 
 ---
 
-### 🔹 Phase 6 — AI Hardware Systems ⚡
+### 🔹 Phase 6 — AI Hardware ⚡
 
-<p align="center">
+```
 ░░░░░░░░░░░░░░░░░░░░ 0%
-</p>
+```
 
-* 🧠 **Edge AI Systems** <sub>⚙ ML on Embedded Devices</sub>
-
-* ⚡ **Hardware Acceleration Concepts** <sub>🚀 NPUs • Custom Chips</sub>
+* 🧠 Edge AI
+* ⚡ Hardware Acceleration
 
 ---
 
-<p align="center">
-💎 <b>Progressing step-by-step towards becoming a System & Chip Engineer</b>
-</p>
+## 📌 Featured Projects
 
+* 🔧 8051 Microcontroller System
+* 💻 C Programming Suite
+* ☕ Java OOP Programs
+* ⚙️ Verilog Practice
 
+---
 
-## 📊 GitHub Performance Dashboard
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=2f81f7&line=2f81f7&point=FF4500&area=true&hide_border=true"/>
@@ -194,16 +183,13 @@ C++ / Java           → Fundamentals of OOP
   <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_border=true&background=transparent"/>
 </p>
 
-
 ---
-## 🎯 Long-Term Goal
 
-To become an engineer capable of building **complete computing systems** — from **software → hardware → silicon**, including:
+## 💼 Target Career
 
-* 🧠 Computer Architecture
-* 🔬 Chip Design (VLSI)
-* ⚙️ Embedded Systems
-* 🤖 Robotics & Intelligent Machines
+* 🔬 VLSI RTL Design Engineer
+* ⚙️ Chip Design / Verification Engineer
+* 🧠 AI Hardware Engineer
 
 ---
 
@@ -211,23 +197,22 @@ To become an engineer capable of building **complete computing systems** — fro
 
 <p align="left">
   <a href="https://github.com/CodeWithOmsai77">
-    <img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
 
-
 ---
+
 <p align="center">
-<b>⭐ Honest Skills • Real Projects • Deep Learning • Consistent Growth</b>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontSize=16&fontColor=ffffff"/>
+⭐ <b>Real Skills • Real Projects • Consistent Growth • Long-Term Vision</b>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer"/>
+</p>

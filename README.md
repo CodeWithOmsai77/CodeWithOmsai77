@@ -196,7 +196,7 @@ C++ / Java           → Fundamentals of OOP
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_border=true&background=transparent&cache_seconds=0&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_ border=true&background=transparent&cache_seconds=0&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 

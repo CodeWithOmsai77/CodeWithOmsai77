@@ -181,8 +181,11 @@ C++ / Java           → OOP Fundamentals (Learning)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithOmsai77&theme=tokyonight&hide_border=true&background=transparent"/>
-</p>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithOmsai77&theme=github_dark" 
+    width="900"
+  />
+</p> 
 
 ---
 
@@ -204,7 +207,7 @@ C++ / Java           → OOP Fundamentals (Learning)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="200"/>
   </a>
 </p>
 

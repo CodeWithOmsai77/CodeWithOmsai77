@@ -207,7 +207,7 @@ C++ / Java           → OOP Fundamentals (Learning)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="200"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
 </p>
 

@@ -64,36 +64,69 @@ VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
 
 ---
 
-## 🛠 Core Skills (Learning & Practicing)
+## 🛠️ Core Engineering Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-</p>
-
-```
-Digital Electronics  → Concepts Practiced (Logic Gates, FSM, Flip-Flops)
-Microcontroller      → 8051 Project Implemented
-Python               → OOP, Data Structures (Learning)
-C Programming        → Core + Pointers (Learning)
-C++ / Java           → OOP Fundamentals (Learning)
-```
-
+<table border="0">
+ <tr>
+    <td width="50%">
+      <b>🧠 Hardware, RTL & Chip Design (Primary Focus)</b><br />
+      <img src="https://img.shields.io/badge/Verilog-RTL_Design-FF4B4B?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Digital_Design-Combinational_+_Sequential-1E90FF?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/FSM-Control_Logic_Design-6A5ACD?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Computer_Architecture-CPU_&_Datapath-20B2AA?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/ALU-Arithmetic_Logic_Design-FF8C00?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Processor-RTL_to_CPU_Path-DC143C?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Memory-Basic_Register_&_Storage-9370DB?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Timing-Setup_Hold_Basics-4682B4?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Clocking-Synchronous_Design-2E8B57?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/RTL_Verification-Testbench_&_Waveform_Debug-8A2BE2?style=flat-square" />
+    </td>
+    <td width="50%">
+      <b>💻 Software, Systems & Toolchain</b><br />
+      <img src="https://img.shields.io/badge/Linux-WSL2_Environment-FCC624?style=flat-square&logo=linux&logoColor=black" /><br />
+      <img src="https://img.shields.io/badge/Bash-Scripting_&_Automation-4EAA25?style=flat-square&logo=gnubash" /><br />
+      <img src="https://img.shields.io/badge/C-Systems_&_Bitwise-A8B9CC?style=flat-square&logo=c" /><br />
+      <img src="https://img.shields.io/badge/C++-OOP_&_Performance-00599C?style=flat-square&logo=cplusplus" /><br />
+      <img src="https://img.shields.io/badge/Python-Automation_&_Tooling-3776AB?style=flat-square&logo=python" /><br />
+      <img src="https://img.shields.io/badge/Git-Version_Control_&_Workflow-F05032?style=flat-square&logo=git" /><br />
+      <img src="https://img.shields.io/badge/Debugging-Logs_&_Waveform_Analysis-708090?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/Data_Handling-Parsing_&_Reports-6B7280?style=flat-square" /><br />
+      <img src="https://img.shields.io/badge/CLI-Terminal_Productivity-000000?style=flat-square&logo=gnubash" />
+    </td>
+ </tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+### ⚙️ Development Tools & Workflow
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-Active-FF4444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HDLBits-Daily_Practice-0099FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NPTEL-VLSI-green?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
 </p>
+
+```id="workflow_block_v4"
+RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Optimization
+
+Toolchain:
+Icarus Verilog | GTKWave | VS Code | WSL (Linux) | Git
+```
+
+---
+
+### 🧩 Engineering Perspective
+
+```id="mindset_block_v3"
+Think in Hardware → Design in RTL → Verify with Simulation → Optimize for Performance
+```
+
+> Focus on **parallelism, timing awareness, and hardware-efficient design**
+
+---
+
 
 ---
 

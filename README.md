@@ -113,12 +113,10 @@ C++ / Java           → OOP Fundamentals (Learning)
 
 ---
 
-## 📌 Featured Projects
-
-* 🔧 8051 Microcontroller System
-* 💻 C Programming Suite
-* ☕ Java OOP Programs
-* ⚙️ Verilog Practice
+## 🏆 Featured Repositories
+* 📂 [**Verilog-Fundamentals**](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) – Logic gates, FSMs, and digital design modules.
+* 📂 [**Java-Learning**](https://github.com/CodeWithOmsai77/Java-Learning) – OOP principles and backend logic development.
+* 📂 [**Python-Learning**](https://github.com/CodeWithOmsai77/Python-Learning) – Core concepts, automation scripts, and data structures.
 
 ---
 

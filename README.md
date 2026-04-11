@@ -25,11 +25,12 @@
 
 ## 🎯 My Engineering Vision
 
-```
-Software → Embedded Systems → Hardware → VLSI → AI Hardware
-```
+* 🔬 **Core Goal:** Focused on **VLSI / Chip Design**.
+* 💻 **Interests:** Low-Level Systems, Computer Architecture, and Embedded Firmware.
+* ⚙️ **Approach:** Learning through **hands-on hardware implementation** and real-world projects.
+  
 
-> I am building myself to become an engineer capable of designing **complete computing systems — from code to silicon**
+* I am building myself to become an engineer capable of designing **complete computing systems — from code to silicon**
 
 ---
 
@@ -43,14 +44,14 @@ VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
 
 ## 🧭 6-Phase Engineering Roadmap
 
-| Phase                 | Focus       | Key Skills                      |
-| --------------------- | ----------- | ------------------------------- |
-| **Phase 1 (Current)** | Foundation  | Verilog, C/C++, Linux, Git      |
-| **Phase 2**           | VLSI Core   | SystemVerilog, UVM, STA, RISC-V |
-| **Phase 3**           | Embedded    | STM32, RTOS, PCB Design         |
-| **Phase 4**           | Robotics    | ROS2, OpenCV, Control Systems   |
-| **Phase 5**           | Software    | DSA, Advanced C++, Docker       |
-| **Phase 6**           | Future Tech | AI Hardware, Edge AI, Chiplets  |
+| Phase | Focus | Status | Key Skills |
+| :--- | :--- | :--- | :--- |
+| **I** | **Foundation** | 📈 | Verilog, C/C++, Linux, Git |
+| **II** | **VLSI Core** | 🔜 | SystemVerilog, UVM, STA, RISC-V |
+| **III** | **Embedded** | 🔜 | STM32, RTOS, PCB Design |
+| **IV** | **Robotics** | 🔜 | ROS2, OpenCV, Control Systems |
+| **V** | **Software** | 🔜 | DSA, Advanced C++, Docker |
+| **VI** | **Future Tech** | 🔜 | AI Hardware, Edge AI, Chiplets |
 
 ---
 
@@ -96,72 +97,19 @@ C++ / Java           → OOP Fundamentals (Learning)
 
 ---
 
-## 📊 Engineering Progress Tracker
+## 📊 Engineering Progress
 
-### 🔹 Phase 1 — Foundation ✅
+- **Phase I: Foundation (Verilog, C, Linux)** ![Progress](https://geps.dev/progress/70)
 
-```
-███████████░░░░░░░░░ 55%
-```
+- **Phase II: VLSI Core (SystemVerilog, RISC-V)** ![Progress](https://geps.dev/progress/20)
 
-* 🧠 8051 Microcontroller Project
-* 💻 C Programming Practice
-* ☕ Java OOP Programs
+- **Phase III: Embedded (STM32, RTOS, PCB)** ![Progress](https://geps.dev/progress/0)
 
----
+- **Phase IV: Robotics (ROS2, Computer Vision)** ![Progress](https://geps.dev/progress/0)
 
-### 🔹 Phase 2 — VLSI ⚡ (In Progress)
+- **Phase V: Software (DSA, Advanced C++)** ![Progress](https://geps.dev/progress/55)
 
-```
-███░░░░░░░░░░░░░░░░ 35%
-```
-
-* ⚙️ Verilog HDL Practice
-* 🧩 ALU Design (Planned)
-
----
-
-### 🔹 Phase 3 — Embedded 🔜
-
-```
-██░░░░░░░░░░░░░░░░░░ 10%
-```
-
-* 🔌 STM32 Projects
-* ⏱ FreeRTOS Systems
-
----
-
-### 🔹 Phase 4 — Robotics 🤖
-
-```
-░░░░░░░░░░░░░░░░░░░░ 0%
-```
-
-* 🤖 ROS2 Systems
-* 📷 Computer Vision
-
----
-
-### 🔹 Phase 5 — Software 💻
-
-```
-████████████░░░░░░░░░ 60%
-```
-
-* 🧠 DSA & Problem Solving
-* 🐳 Docker (Planned)
-
----
-
-### 🔹 Phase 6 — AI Hardware ⚡
-
-```
-░░░░░░░░░░░░░░░░░░░░ 0%
-```
-
-* 🧠 Edge AI
-* ⚡ Hardware Acceleration
+- **Phase VI: Future Tech (AI Hardware, Chiplets)** ![Progress](https://geps.dev/progress/5)
 
 ---
 

@@ -147,10 +147,10 @@ Think in Hardware → Design in RTL → Verify with Simulation → Optimize for 
 ---
 
 ## 🏆 Featured Repositories
-* 📂 [**Verilog-Fundamentals**](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) – Logic gates, FSMs, and digital design modules.
-* 📂 [**Java-Learning**](https://github.com/CodeWithOmsai77/Java-Learning) – OOP principles and backend logic development.
-* 📂 [**Python-Learning**](https://github.com/CodeWithOmsai77/Python-Learning) – Core concepts, automation scripts, and data structures.
-
+* 📂 [**Progress-Tracker**](https://github.com/CodeWithOmsai77/Progress-Tracker) – My "Engineering Engine": Contains strict daily rules, execution strategies, and real-time learning status.
+* 📂 [**Verilog-Fundamentals**](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) – Logic gates, FSMs, and RTL design modules implemented from scratch.
+* 📂 [**Java-Learning**](https://github.com/CodeWithOmsai77/Java-Learning) – OOP principles and backend logic development architecture.
+* 📂 [**Python-Learning**](https://github.com/CodeWithOmsai77/Python-Learning) – Core scripting, automation tools, and data handling.
 ---
 
 ## 📈 GitHub Activity

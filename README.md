@@ -153,21 +153,6 @@ Think in Hardware → Design in RTL → Verify with Simulation → Optimize for 
 * 📂 [**Python-Learning**](https://github.com/CodeWithOmsai77/Python-Learning) – Core scripting, automation tools, and data handling.
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithOmsai77&bg_color=00000000&color=2f81f7&line=2f81f7&point=FF4500&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithOmsai77&theme=github_dark" 
-    width="900"
-  />
-</p> 
-
----
-
 ## 💼 Target Career
 
 * 🔬 VLSI RTL Design Engineer

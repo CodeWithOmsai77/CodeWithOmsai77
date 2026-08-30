@@ -14,7 +14,9 @@ Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
 
 ---
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="centre">
+  <img src="./assets/chip_animation.svg" width="900">
+</p>
 
 ## About Me
 
@@ -152,9 +154,5 @@ ASIC RTL Design Engineer · Digital IC Design Engineer · RTL Verification Engin
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=90&section=footer&text=Keep%20Building&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="./assets/chip-animation.svg" width="800">
 </p>
 

@@ -8,10 +8,6 @@ Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=RTL+Design+%7C+Verilog;Digital+IC+Design;From+Logic+Gates+to+RISC-V;Building%2C+Simulating%2C+Debugging;Every+Waveform+Tells+a+Story" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</p>
-
 ---
 
 <p align="centre">

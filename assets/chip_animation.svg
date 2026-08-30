@@ -1,0 +1,125 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="dieGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d3b4a"/>
+      <stop offset="100%" stop-color="#0a1622"/>
+    </linearGradient>
+    <radialGradient id="bgGrad" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#12141f"/>
+      <stop offset="100%" stop-color="#0a0b12"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background intentionally omitted for transparency (works on light & dark themes) -->
+
+  <!-- title -->
+  <text x="400" y="34" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#00F7FF" filter="url(#glow)">
+    RTL &#8594; GDSII &#8594; Silicon
+    <animate attributeName="opacity" values="0.3;1;1;0.3" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- package outline (draws itself in) -->
+  <rect x="250" y="70" width="300" height="280" rx="14" fill="#11131c" stroke="#00F7FF" stroke-width="2.5"
+        stroke-dasharray="1160" stroke-dashoffset="1160">
+    <animate attributeName="stroke-dashoffset" from="1160" to="0" dur="2.2s" fill="freeze" begin="0.2s"/>
+  </rect>
+
+  <!-- corner registration marks -->
+  <g stroke="#3fd0e0" stroke-width="1.5" opacity="0.6">
+    <path d="M250,90 h16 M250,70 v16"/>
+    <path d="M550,90 h-16 M550,70 v16"/>
+    <path d="M250,330 h16 M250,350 v-16"/>
+    <path d="M550,330 h-16 M550,350 v-16"/>
+  </g>
+
+  <!-- pins: left -->
+  <g fill="#0d3b4a" stroke="#00F7FF" stroke-width="1.5">
+    <rect x="216" y="116" width="34" height="14" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="1.8s" fill="freeze"/></rect>
+    <rect x="216" y="186" width="34" height="14" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="1.95s" fill="freeze"/></rect>
+    <rect x="216" y="256" width="34" height="14" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="2.1s" fill="freeze"/></rect>
+  </g>
+  <!-- pins: right -->
+  <g fill="#0d3b4a" stroke="#00F7FF" stroke-width="1.5">
+    <rect x="550" y="116" width="34" height="14" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="1.8s" fill="freeze"/></rect>
+    <rect x="550" y="186" width="34" height="14" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="1.95s" fill="freeze"/></rect>
+    <rect x="550" y="256" width="34" height="14" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="2.1s" fill="freeze"/></rect>
+  </g>
+  <!-- pins: top -->
+  <g fill="#0d3b4a" stroke="#00F7FF" stroke-width="1.5">
+    <rect x="318" y="36" width="14" height="34" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="1.85s" fill="freeze"/></rect>
+    <rect x="393" y="36" width="14" height="34" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="2.0s" fill="freeze"/></rect>
+    <rect x="468" y="36" width="14" height="34" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="2.15s" fill="freeze"/></rect>
+  </g>
+  <!-- pins: bottom -->
+  <g fill="#0d3b4a" stroke="#00F7FF" stroke-width="1.5">
+    <rect x="318" y="350" width="14" height="34" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="1.85s" fill="freeze"/></rect>
+    <rect x="393" y="350" width="14" height="34" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="2.0s" fill="freeze"/></rect>
+    <rect x="468" y="350" width="14" height="34" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="2.15s" fill="freeze"/></rect>
+  </g>
+
+  <!-- traces: left -->
+  <g stroke="#00F7FF" stroke-width="2" fill="none" opacity="0" stroke-dasharray="6 6">
+    <line x1="250" y1="123" x2="300" y2="123"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="250" y1="193" x2="300" y2="193"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="250" y1="263" x2="300" y2="263"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <animate attributeName="opacity" to="0.85" dur="0.4s" begin="2.4s" fill="freeze"/>
+  </g>
+  <!-- traces: right -->
+  <g stroke="#00F7FF" stroke-width="2" fill="none" opacity="0" stroke-dasharray="6 6">
+    <line x1="500" y1="123" x2="550" y2="123"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="500" y1="193" x2="550" y2="193"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="500" y1="263" x2="550" y2="263"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <animate attributeName="opacity" to="0.85" dur="0.4s" begin="2.4s" fill="freeze"/>
+  </g>
+  <!-- traces: top -->
+  <g stroke="#00F7FF" stroke-width="2" fill="none" opacity="0" stroke-dasharray="6 6">
+    <line x1="325" y1="70" x2="325" y2="110"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="400" y1="70" x2="400" y2="110"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="475" y1="70" x2="475" y2="110"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <animate attributeName="opacity" to="0.85" dur="0.4s" begin="2.4s" fill="freeze"/>
+  </g>
+  <!-- traces: bottom -->
+  <g stroke="#00F7FF" stroke-width="2" fill="none" opacity="0" stroke-dasharray="6 6">
+    <line x1="325" y1="310" x2="325" y2="350"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="400" y1="310" x2="400" y2="350"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="475" y1="310" x2="475" y2="350"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.8s" repeatCount="indefinite"/></line>
+    <animate attributeName="opacity" to="0.85" dur="0.4s" begin="2.4s" fill="freeze"/>
+  </g>
+
+  <!-- die area -->
+  <rect x="300" y="110" width="200" height="150" rx="4" fill="url(#dieGrad)" stroke="#1a5a6e" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.4s" begin="2.5s" fill="freeze"/>
+  </rect>
+
+  <!-- die grid: transistor cells lighting up -->
+  <g filter="url(#glow)">
+    <!-- row 0 -->
+    <rect x="306" y="116" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="2.7s" repeatCount="indefinite"/></rect>
+    <rect x="356" y="116" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="2.78s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="116" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="2.86s" repeatCount="indefinite"/></rect>
+    <rect x="456" y="116" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="2.94s" repeatCount="indefinite"/></rect>
+    <!-- row 1 -->
+    <rect x="306" y="166" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.02s" repeatCount="indefinite"/></rect>
+    <rect x="356" y="166" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.10s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="166" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.18s" repeatCount="indefinite"/></rect>
+    <rect x="456" y="166" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.26s" repeatCount="indefinite"/></rect>
+    <!-- row 2 -->
+    <rect x="306" y="216" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.34s" repeatCount="indefinite"/></rect>
+    <rect x="356" y="216" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.42s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="216" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.50s" repeatCount="indefinite"/></rect>
+    <rect x="456" y="216" width="38" height="38" fill="#00F7FF"><animate attributeName="fill-opacity" values="0.1;0.9;0.1" dur="1.8s" begin="3.58s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- subtitle -->
+  <text x="400" y="396" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#6fd6e0" opacity="0">
+    Building it one gate at a time
+    <animate attributeName="opacity" to="0.85" dur="1s" begin="3.8s" fill="freeze"/>
+  </text>
+</svg>

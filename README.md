@@ -1,70 +1,71 @@
 <h1 align="center">Hi 👋, I'm Omsai</h1>
 
 <h3 align="center">
-🚀 Aspiring Engineer | Software → Hardware → Chip Design
+Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Engineer;Future+VLSI+Engineer;From+Code+to+Chips;Building+Real+Projects;Systems+Thinking+Mindset" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=RTL+Design+%7C+Verilog;Digital+IC+Design;From+Logic+Gates+to+RISC-V;Building%2C+Simulating%2C+Debugging;Every+Waveform+Tells+a+Story" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" style="margin-top:-40px;"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
+## About Me
 
-* 🔬 Focused on **VLSI / Chip Design (Core Goal)**
-* 💻 Strong interest in **Low-Level Systems & Computer Architecture**
-* ⚙️ Building skills in **Embedded Systems & Electronics**
-* 🤖 Exploring **Robotics & Intelligent Systems**
-* 📚 Learning through **real projects — not just theory**
+I'm a 3rd-year engineering student who genuinely loves the moment a waveform finally matches what's in my head. Somewhere between a truth table and a clean simulation, digital logic just *clicked* for me — and now I'm chasing that all the way to silicon.
 
----
----
+🔭 Focused on becoming an **ASIC / RTL Design Engineer**
+📐 My path: Digital Logic → Verilog → RTL Design → SystemVerilog → RTL Verification → Computer Architecture → RISC-V → ASIC Design Flow
+🧩 I don't call a design "done" just because it compiles — every module goes through: understand the spec → derive the logic → write the RTL myself → simulate → debug → verify → understand *why* it works
+⚡ Long-term obsession: AI hardware accelerators — systolic arrays, GEMM, the stuff that makes matrix math run in silicon instead of software
 
-## 🎯 My Engineering Vision
-
-* 🔬 **Core Goal:** Focused on **VLSI / Chip Design**.
-* 💻 **Interests:** Low-Level Systems, Computer Architecture, and Embedded Firmware.
-* ⚙️ **Approach:** Learning through **hands-on hardware implementation** and real-world projects.
-  
-
-* I am building myself to become an engineer capable of designing **complete computing systems — from code to silicon**
+<br clear="right"/>
 
 ---
 
-## 🔗 How My Skills Connect
+## 🧭 Learning Roadmap
 
-```
-VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
-```
-
----
-
-## 🧭 6-Phase Engineering Roadmap
-
-| Phase | Focus | Status | Key Skills |
-| :--- | :--- | :--- | :--- |
-| **I** | **Foundation** | 📈 | Verilog, C/C++, Linux, Git |
-| **II** | **VLSI Core** | 🔜 | SystemVerilog, UVM, STA, RISC-V |
-| **III** | **Embedded** | 🔜 | STM32, RTOS, PCB Design |
-| **IV** | **Robotics** | 🔜 | ROS2, OpenCV, Control Systems |
-| **V** | **Software** | 🔜 | DSA, Advanced C++, Docker |
-| **VI** | **Future Tech** | 🔜 | AI Hardware, Edge AI, Chiplets |
+| Stage | Topics | Status |
+|---|---|---|
+| Digital Logic | Gates, truth tables, Boolean derivation | ✅ Done |
+| Verilog Fundamentals | MUX/DEMUX (flat + hierarchical, 2:1→16:1) | ✅ Done |
+| RTL Design — Combinational | Encoders, decoders, comparators, adders | 🔨 In progress (4:2 Encoder) |
+| RTL Design — Sequential | Flip-flops, registers, counters, FSMs | 🔜 Next |
+| SystemVerilog & Verification | Assertions, coverage, self-checking TBs | 🔜 |
+| Computer Architecture | Datapath, ALU, register file, pipelining | 🔜 |
+| RISC-V | CPU design | 🔜 |
+| ASIC Flow | Synthesis → STA → P&R → signoff | 🔜 Long-term |
 
 ---
 
-## 📌 Why This Roadmap?
+## ⚡ Why I'm Doing This
 
-* ✔ Structured learning (not random topics)
-* ✔ Focus on high-paying core roles (VLSI)
-* ✔ Combines software + hardware advantage
-* ✔ Based on real industry tools
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
+
+Software tells the hardware what to do. RTL design is where you actually *build* the thing that does it — gates, timing, parallelism, real physics underneath the logic. That's the part I can't stop thinking about.
+
+Every design in this repo, I built and broke it myself first. The gates were easy. The MUX/DEMUX hierarchy is where it started feeling like real engineering — routing signals, splitting select lines across stages, watching a 16:1 structure emerge from four small reusable 4:1 blocks. That's the addiction: small verified pieces becoming something bigger.
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Core Engineering Stack
+## 🔨 What I'm Building Right Now
+
+- **Completed:** All 7 basic logic gates (AND/OR/NOT/NAND/NOR/XOR/XNOR) with testbenches
+- **Completed:** 2:1 → 4:1 → 8:1 → 16:1 multiplexers, including a 16:1 MUX built hierarchically from 4:1 MUXes
+- **Completed:** 1:2 → 1:4 → 1:8 → 1:16 demultiplexers, including hierarchical 1:4-from-1:2 and 1:16-from-1:4 builds
+- **In progress:** 4:2 Encoder — first design in the new `RTL_Design/` section, moving from "writing Verilog" to genuine RTL/architecture thinking
+
+---
+
+## 🛠️ Toolchain & Skills
 
 <table border="0">
  <tr>
@@ -96,40 +97,12 @@ VLSI (Brain) → Electronics + Embedded (Body) → Robotics + AI (Intelligence)
  </tr>
 </table>
 
----
 
-### ⚙️ Development Tools & Workflow
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-</p>
-
-```id="workflow_block_v4"
-RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Optimization
-
-Toolchain:
-Icarus Verilog | GTKWave | VS Code | WSL (Linux) | Git
+```
+RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Verify
 ```
 
 ---
-
-### 🧩 Engineering Perspective
-
-```id="mindset_block_v3"
-Think in Hardware → Design in RTL → Verify with Simulation → Optimize for Performance
-```
-
-> Focus on **parallelism, timing awareness, and hardware-efficient design**
-
----
-
-
----
-
 ## 📊 Engineering Progress
 
 - **Phase I: Foundation (Verilog, C, Linux)** ![Progress](https://geps.dev/progress/70)
@@ -143,44 +116,43 @@ Think in Hardware → Design in RTL → Verify with Simulation → Optimize for 
 - **Phase V: Software (DSA, Advanced C++)** ![Progress](https://geps.dev/progress/55)
 
 - **Phase VI: Future Tech (AI Hardware, Chiplets)** ![Progress](https://geps.dev/progress/5)
-
 ---
 
 ## 🏆 Featured Repositories
-* 📂 [**Progress-Tracker**](https://github.com/CodeWithOmsai77/Progress-Tracker) – My "Engineering Engine": Contains strict daily rules, execution strategies, and real-time learning status.
-* 📂 [**Verilog-Fundamentals**](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) – Logic gates, FSMs, and RTL design modules implemented from scratch.
-* 📂 [**Java-Learning**](https://github.com/CodeWithOmsai77/Java-Learning) – OOP principles and backend logic development architecture.
-* 📂 [**Python-Learning**](https://github.com/CodeWithOmsai77/Python-Learning) – Core scripting, automation tools, and data handling.
----
 
-## 💼 Target Career
-
-* 🔬 VLSI RTL Design Engineer
-* ⚙️ Chip Design / Verification Engineer
-* 🧠 AI Hardware Engineer
+- 📂 [**Verilog-Fundamentals**](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) — Logic gates through hierarchical MUX/DEMUX design, now moving into RTL design with encoders. My main RTL portfolio.
+- 📂 [**Progress-Tracker**](https://github.com/CodeWithOmsai77/Progress-Tracker) — Self-paced VLSI & electronics roadmap: logic gates to tapeout, with progress tracking.
+- 📂 [**c-data-structures**](https://github.com/CodeWithOmsai77/c-data-structures) — Data structure implementations in C, supporting the systems-programming side of hardware work.
+- 📂 [**python-learning**](https://github.com/CodeWithOmsai77/python-learning) — Scripting and automation, chapter-wise.
 
 ---
 
-## 📬 Connect With Me
+## 💼 Target Roles
+
+ASIC RTL Design Engineer · Digital IC Design Engineer · RTL Verification Engineer
+
+---
+
+## 📬 Connect
 
 <p align="left">
   <a href="https://github.com/CodeWithOmsai77">
     <img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Omsai_Dasari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Real Skills • Real Projects • Consistent Growth • Long-Term Vision</b>
+  ⭐ <b>Real Skills • Real Projects • Consistent Growth • Long-Term Vision</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=90&section=footer&text=Keep%20Building&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+
+

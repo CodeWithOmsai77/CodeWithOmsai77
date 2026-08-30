@@ -7,15 +7,8 @@ Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=RTL+Design+%7C+Verilog;Digital+IC+Design;From+Logic+Gates+to+RISC-V;Building%2C+Simulating%2C+Debugging;Every+Waveform+Tells+a+Story" />
 </p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/CodeWithOmsai77/CodeWithOmsai77@main/assets/chip-build-animation.svg" width="600">
-</p>
 
 ---
-
-<p align="centre">
-  <img src="./assets/chip_animation.svg" width="900">
-</p>
 
 ## About Me
 

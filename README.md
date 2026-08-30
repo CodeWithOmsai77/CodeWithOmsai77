@@ -154,5 +154,7 @@ ASIC RTL Design Engineer · Digital IC Design Engineer · RTL Verification Engin
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=90&section=footer&text=Keep%20Building&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-
+<p align="center">
+  <img src="./assets/chip-animation.svg" width="800">
+</p>
 

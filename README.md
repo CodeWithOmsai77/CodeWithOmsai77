@@ -14,6 +14,8 @@ Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
 <p align="center">
   <img src="./assets/chip_animation.svg" width="800">
 </p>
+
+
 ## About Me
 
 I'm a 3rd-year engineering student who genuinely loves the moment a waveform finally matches what's in my head. Somewhere between a truth table and a clean simulation, digital logic just *clicked* for me — and now I'm chasing that all the way to silicon.

@@ -23,52 +23,54 @@ I'm a 3rd-year engineering student who genuinely loves the moment a waveform fin
 
 ## 🛠️ Toolchain & Skills
 
-### RTL Design, Digital Logic & Verification
-
-<p>
-  <img src="https://img.shields.io/badge/Verilog-RTL_Design-FF4B4B?style=flat-square&logo=verilog" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-Learning-1E90FF?style=flat-square" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Digital_Design-Combinational_%26_Sequential-6A5ACD?style=flat-square" alt="Digital design" />
-  <img src="https://img.shields.io/badge/RTL_Verification-Testbenches_%26_Debug-8A2BE2?style=flat-square" alt="RTL verification" />
-  <img src="https://img.shields.io/badge/Computer_Architecture-Learning-20B2AA?style=flat-square" alt="Computer architecture" />
-  <img src="https://img.shields.io/badge/RISC--V-Learning_Roadmap-DC143C?style=flat-square" alt="RISC-V" />
-</p>
-
-### EDA Tools & Physical Design
-
-**Hands-on tools**
-<p>
-  <img src="https://img.shields.io/badge/Simulation-Icarus_Verilog-blue?style=flat-square" alt="Icarus Verilog" />
-  <img src="https://img.shields.io/badge/Waveforms-GTKWave-orange?style=flat-square" alt="GTKWave" />
-  <img src="https://img.shields.io/badge/Lint_%26_Simulation-Verilator-5C4EE5?style=flat-square" alt="Verilator" />
-  <img src="https://img.shields.io/badge/Physical_Design-OpenROAD-008CBA?style=flat-square" alt="OpenROAD" />
-  <img src="https://img.shields.io/badge/Flow_Environment-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-**Next tools in my learning path**
-<p>
-  <img src="https://img.shields.io/badge/RTL_Lint-Verible-64748B?style=flat-square" alt="Verible" />
-  <img src="https://img.shields.io/badge/Python_Verification-cocotb-239120?style=flat-square" alt="cocotb" />
-  <img src="https://img.shields.io/badge/Logic_Synthesis-Yosys-CC0000?style=flat-square" alt="Yosys" />
-  <img src="https://img.shields.io/badge/Static_Timing-OpenSTA-2E8B57?style=flat-square" alt="OpenSTA" />
-  <img src="https://img.shields.io/badge/RTL--to--GDSII-OpenLane-8B5CF6?style=flat-square" alt="OpenLane" />
-  <img src="https://img.shields.io/badge/PDK-SKY130-64748B?style=flat-square" alt="SKY130" />
-</p>
-
-### Software & Development Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-Automation_%26_Tooling-3776AB?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/C-Systems_%26_Bitwise-A8B9CC?style=flat-square&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/C++-OOP_%26_Performance-00599C?style=flat-square&logo=cplusplus" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-GitHub_Workflow-F05032?style=flat-square&logo=git" alt="Git and GitHub" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 Hardware, RTL & Chip Design</b><br /><br />
+      <img src="https://img.shields.io/badge/Verilog-RTL_Design-FF4B4B?style=flat-square" alt="Verilog RTL Design" /><br />
+      <img src="https://img.shields.io/badge/Digital_Design-Combinational_%26_Sequential-1E90FF?style=flat-square" alt="Digital Design" /><br />
+      <img src="https://img.shields.io/badge/SystemVerilog-Learning-6A5ACD?style=flat-square" alt="SystemVerilog" /><br />
+      <img src="https://img.shields.io/badge/FSM-Control_Logic_Design-6A5ACD?style=flat-square" alt="Finite State Machines" /><br />
+      <img src="https://img.shields.io/badge/Computer_Architecture-CPU_%26_Datapath-20B2AA?style=flat-square" alt="Computer Architecture" /><br />
+      <img src="https://img.shields.io/badge/ALU-Arithmetic_Logic_Design-FF8C00?style=flat-square" alt="ALU Design" /><br />
+      <img src="https://img.shields.io/badge/Processor-RTL_to_CPU_Path-DC143C?style=flat-square" alt="Processor Design" /><br />
+      <img src="https://img.shields.io/badge/Memory-Registers_%26_Storage-9370DB?style=flat-square" alt="Memory and Registers" /><br />
+      <img src="https://img.shields.io/badge/Timing-Setup_%26_Hold_Basics-4682B4?style=flat-square" alt="Timing Basics" /><br />
+      <img src="https://img.shields.io/badge/RTL_Verification-Testbench_%26_Waveform_Debug-8A2BE2?style=flat-square" alt="RTL Verification" />
+      <br /><br />
+      <b>🔬 Verification Concepts</b><br /><br />
+      <img src="https://img.shields.io/badge/Testbenches-Self_Checking_%26_Debug-008080?style=flat-square" alt="Testbenches" /><br />
+      <img src="https://img.shields.io/badge/Methodology-Spec_%E2%86%92_RTL_%E2%86%92_Verify-64748B?style=flat-square" alt="Design methodology" />
+    </td>
+    <td width="50%" valign="top">
+      <b>💻 Software, Systems & EDA Toolchain</b><br /><br />
+      <img src="https://img.shields.io/badge/Linux-WSL2_Environment-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /><br />
+      <img src="https://img.shields.io/badge/Bash-Scripting_%26_Automation-4EAA25?style=flat-square&logo=gnubash" alt="Bash" /><br />
+      <img src="https://img.shields.io/badge/Python-Automation_%26_Tooling-3776AB?style=flat-square&logo=python" alt="Python" /><br />
+      <img src="https://img.shields.io/badge/C-Systems_%26_Bitwise-A8B9CC?style=flat-square&logo=c" alt="C" /><br />
+      <img src="https://img.shields.io/badge/C++-OOP_%26_Performance-00599C?style=flat-square&logo=cplusplus" alt="C++" /><br />
+      <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git" alt="Git" /><br />
+      <img src="https://img.shields.io/badge/Icarus_Verilog-RTL_Simulation-blue?style=flat-square" alt="Icarus Verilog" /><br />
+      <img src="https://img.shields.io/badge/GTKWave-Waveform_Analysis-orange?style=flat-square" alt="GTKWave" /><br />
+      <img src="https://img.shields.io/badge/Verilator-Lint_%26_Simulation-5C4EE5?style=flat-square" alt="Verilator" /><br />
+      <img src="https://img.shields.io/badge/Docker-EDA_Environment-2496ED?style=flat-square&logo=docker" alt="Docker" /><br />
+      <img src="https://img.shields.io/badge/OpenROAD-Physical_Design-008CBA?style=flat-square" alt="OpenROAD" />
+      <br /><br />
+      <b>🧭 Next Tools in the Learning Path</b><br /><br />
+      <img src="https://img.shields.io/badge/Verible-RTL_Linting-64748B?style=flat-square" alt="Verible" />
+      <img src="https://img.shields.io/badge/cocotb-Python_Verification-239120?style=flat-square" alt="cocotb" /><br />
+      <img src="https://img.shields.io/badge/Yosys-Logic_Synthesis-CC0000?style=flat-square" alt="Yosys" />
+      <img src="https://img.shields.io/badge/OpenSTA-Static_Timing-2E8B57?style=flat-square" alt="OpenSTA" /><br />
+      <img src="https://img.shields.io/badge/OpenLane-RTL_to_GDSII-8B5CF6?style=flat-square" alt="OpenLane" />
+      <img src="https://img.shields.io/badge/SKY130-Open_Source_PDK-64748B?style=flat-square" alt="SKY130" />
+      <p><sub>Tools in the learning path are planned targets, not claims of current proficiency.</sub></p>
+    </td>
+  </tr>
+</table>
 
 ```text
-Specification → RTL → Testbench → Simulation → Waveform Analysis
-             → Debug → Synthesis → Timing Analysis → Physical Design
+RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Verify
+          → Synthesis → Timing Analysis → Physical Design → GDSII
 ```
 
 ---

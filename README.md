@@ -90,7 +90,7 @@ Progress bars now follow the **five-stage RTL / ASIC roadmap** in my [Progress T
   Gates, MUX/DEMUX, encoders/decoders and hierarchical designs are represented in [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals). This percentage covers the defined combinational-foundation milestone, not every possible digital-design topic.
 - **Phase 2 — Sequential RTL, Verilator & SystemVerilog** ![Progress](https://geps.dev/progress/35)  
   D flip-flop and resettable DFF foundations are implemented; Verilator workflow mastery and SystemVerilog/JK flip-flop work are in progress.
-- **Phase 3 — Python for Verification & cocotb** ![Progress](https://geps.dev/progress/0)  
+- **Phase 3 — Python for Verification & cocotb** ![Progress](https://geps.dev/progress/10)  
   Next after the current sequential RTL and simulator-workflow foundations.
 - **Phase 4 — Synthesis, STA & Deeper Physical Design** ![Progress](https://geps.dev/progress/20)  
   One introductory RTL-to-GDSII flow was run for a 6-to-64 decoder. Standalone synthesis/report analysis, correct timing constraints and deeper physical checks remain.

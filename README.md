@@ -83,8 +83,8 @@ RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Veri
 
 ## 📊 Engineering Progress
 
-- **Phase I — Foundation (Verilog, C, Linux)** ![Progress](https://geps.dev/progress/70)
-- **Phase II — VLSI Core (SystemVerilog, RISC-V)** ![Progress](https://geps.dev/progress/20)
+- **Phase I — Foundation (Verilog, C, Linux)** ![Progress](https://geps.dev/progress/78)
+- **Phase II — VLSI Core (SystemVerilog, RISC-V)** ![Progress](https://geps.dev/progress/30)
 - **Phase III — Embedded (STM32, RTOS, PCB)** ![Progress](https://geps.dev/progress/0)
 - **Phase IV — Robotics (ROS 2, Computer Vision)** ![Progress](https://geps.dev/progress/0)
 - **Phase V — Software (DSA, Advanced C++)** ![Progress](https://geps.dev/progress/55)

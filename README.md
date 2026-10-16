@@ -81,13 +81,22 @@ RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Veri
 
 ---
 
-## 📍 Current Learning Status
+## 📊 Engineering Progress
 
-- ✅ **Completed foundation:** Combinational RTL — logic gates, MUX/DEMUX, encoders/decoders and hierarchical designs — plus basic and resettable D flip-flops. [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals)
-- 🔄 **In progress:** Mastering the Verilator workflow and learning SystemVerilog through sequential RTL. The JK flip-flop is a current learning target, not yet a completed public project.
-- 🧪 **Introductory ASIC-flow experience:** Ran OpenROAD Flow Scripts in Docker for a 6-to-64 decoder using the Nangate45 platform; GDS/ODB/DEF and a layout preview were generated. The run reported a missing-clock timing warning, so timing closure/signoff is **not claimed**. [Flow project](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects/tree/main/01_Decoder_6to64)
-- ➡️ **Next, in order:** deepen SystemVerilog → Python for verification → cocotb → standalone Yosys synthesis and OpenSTA timing constraints/reports.
-- 🧭 **Optional / later:** embedded systems, PCB design, robotics and computer vision remain interests, but are not the primary current track.
+Progress bars now follow the **five-stage RTL / ASIC roadmap** in my [Progress Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker). Percentages are practical estimates of milestone completion, not measures of professional proficiency.
+
+- **Phase 1 — Combinational RTL Foundations** ![Progress](https://geps.dev/progress/100)  
+  Gates, MUX/DEMUX, encoders/decoders and hierarchical designs are represented in [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals). This percentage covers the defined combinational-foundation milestone, not every possible digital-design topic.
+- **Phase 2 — Sequential RTL, Verilator & SystemVerilog** ![Progress](https://geps.dev/progress/35)  
+  D flip-flop and resettable DFF foundations are implemented; Verilator workflow mastery and SystemVerilog/JK flip-flop work are in progress.
+- **Phase 3 — Python for Verification & cocotb** ![Progress](https://geps.dev/progress/0)  
+  Next after the current sequential RTL and simulator-workflow foundations.
+- **Phase 4 — Synthesis, STA & Deeper Physical Design** ![Progress](https://geps.dev/progress/20)  
+  One introductory RTL-to-GDSII flow was run for a 6-to-64 decoder. Standalone synthesis/report analysis, correct timing constraints and deeper physical checks remain.
+- **Phase 5 — Advanced RTL Projects & Computer Architecture** ![Progress](https://geps.dev/progress/0)  
+  Planned next-level milestones include FSMs, ALU, FIFO/UART and later CPU/RISC-V work.
+
+<sub>Optional / later: embedded systems, PCB design, robotics and computer vision remain interests outside the primary RTL/ASIC sequence. Track details and evidence are in the [Progress Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker).</sub>
 
 ---
 

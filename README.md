@@ -10,7 +10,7 @@ Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
 
 ## About Me
 
-I'm a 3rd-year engineering student who genuinely loves the moment a waveform finally matches what's in my head. Somewhere between a truth table and a clean simulation, digital logic just *clicked* for me — and now I'm chasing that all the way to silicon.
+I'm an engineering student who genuinely loves the moment a waveform finally matches what's in my head. Somewhere between a truth table and a clean simulation, digital logic just *clicked* for me — and now I'm chasing that all the way to silicon.
 
 🔭 Focused on becoming an **ASIC / RTL Design Engineer**  
 📐 My path: Digital Logic → Verilog → RTL Design → SystemVerilog → RTL Verification → Computer Architecture → RISC-V → ASIC Design Flow  
@@ -18,6 +18,15 @@ I'm a 3rd-year engineering student who genuinely loves the moment a waveform fin
 ⚡ Long-term interest: AI hardware accelerators, systolic arrays, and compute architectures
 
 <br clear="right"/>
+
+---
+
+## 🏆 Featured Repositories
+
+- 📂 **[RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects)** — Hands-on digital design progressing from RTL simulation to OpenROAD physical design, including a 6-to-64 decoder with GDS, ODB, DEF, and layout visualization.
+- 📂 **[Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals)** — Digital logic foundations, hierarchical MUX/DEMUX designs, and introductory RTL exercises.
+- 📂 **[Progress-Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker)** — A structured roadmap for VLSI and electronics learning.
+- 📂 **[python-learning](https://github.com/CodeWithOmsai77/python-learning)** — Chapter-wise Python learning and scripting practice.
 
 ---
 
@@ -56,14 +65,11 @@ I'm a 3rd-year engineering student who genuinely loves the moment a waveform fin
       <img src="https://img.shields.io/badge/Docker-EDA_Environment-2496ED?style=flat-square&logo=docker" alt="Docker" /><br />
       <img src="https://img.shields.io/badge/OpenROAD-Physical_Design-008CBA?style=flat-square" alt="OpenROAD" />
       <br /><br />
-      <b>🧭 Next Tools in the Learning Path</b><br /><br />
-      <img src="https://img.shields.io/badge/Verible-RTL_Linting-64748B?style=flat-square" alt="Verible" />
-      <img src="https://img.shields.io/badge/cocotb-Python_Verification-239120?style=flat-square" alt="cocotb" /><br />
-      <img src="https://img.shields.io/badge/Yosys-Logic_Synthesis-CC0000?style=flat-square" alt="Yosys" />
-      <img src="https://img.shields.io/badge/OpenSTA-Static_Timing-2E8B57?style=flat-square" alt="OpenSTA" /><br />
-      <img src="https://img.shields.io/badge/OpenLane-RTL_to_GDSII-8B5CF6?style=flat-square" alt="OpenLane" />
-      <img src="https://img.shields.io/badge/SKY130-Open_Source_PDK-64748B?style=flat-square" alt="SKY130" />
-      <p><sub>Tools in the learning path are planned targets, not claims of current proficiency.</sub></p>
+      <b>⚙️ RTL-to-GDSII Flow in Use</b><br /><br />
+      <img src="https://img.shields.io/badge/Yosys-Logic_Synthesis-CC0000?style=flat-square" alt="Yosys logic synthesis" />
+      <img src="https://img.shields.io/badge/OpenROAD_Flow_Scripts-RTL_to_GDSII-008CBA?style=flat-square" alt="OpenROAD Flow Scripts" /><br />
+      <img src="https://img.shields.io/badge/Nangate45-Standard_Cell_Library-64748B?style=flat-square" alt="Nangate45 standard cell library" />
+      <p><sub>Currently applying these in the RTL-to-GDSII project flow: synthesis through Yosys/ORFS, followed by OpenROAD physical design using the Nangate45 platform.</sub></p>
     </td>
   </tr>
 </table>
@@ -83,15 +89,6 @@ RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Veri
 - **Phase IV — Robotics (ROS 2, Computer Vision)** ![Progress](https://geps.dev/progress/0)
 - **Phase V — Software (DSA, Advanced C++)** ![Progress](https://geps.dev/progress/55)
 - **Phase VI — Future Tech (AI Hardware, Chiplets)** ![Progress](https://geps.dev/progress/5)
-
----
-
-## 🏆 Featured Repositories
-
-- 📂 **[RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects)** — Hands-on digital design progressing from RTL simulation to OpenROAD physical design, including a 6-to-64 decoder with GDS, ODB, DEF, and layout visualization.
-- 📂 **[Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals)** — Digital logic foundations, hierarchical MUX/DEMUX designs, and introductory RTL exercises.
-- 📂 **[Progress-Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker)** — A structured roadmap for VLSI and electronics learning.
-- 📂 **[python-learning](https://github.com/CodeWithOmsai77/python-learning)** — Chapter-wise Python learning and scripting practice.
 
 ---
 

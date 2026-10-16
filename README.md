@@ -37,13 +37,13 @@ I'm an engineering student who genuinely loves the moment a waveform finally mat
     <td width="50%" valign="top">
       <b>🧠 Hardware, RTL & Chip Design</b><br /><br />
       <img src="https://img.shields.io/badge/Verilog-RTL_Design-FF4B4B?style=flat-square" alt="Verilog RTL Design" /><br />
-      <img src="https://img.shields.io/badge/Digital_Design-Combinational_%26_Sequential-1E90FF?style=flat-square" alt="Digital Design" /><br />
+      <img src="https://img.shields.io/badge/Digital_Logic-Combinational_RTL_Foundation-1E90FF?style=flat-square" alt="Digital Design" /><br />
       <img src="https://img.shields.io/badge/SystemVerilog-Learning-6A5ACD?style=flat-square" alt="SystemVerilog" /><br />
-      <img src="https://img.shields.io/badge/FSM-Control_Logic_Design-6A5ACD?style=flat-square" alt="Finite State Machines" /><br />
-      <img src="https://img.shields.io/badge/Computer_Architecture-CPU_%26_Datapath-20B2AA?style=flat-square" alt="Computer Architecture" /><br />
-      <img src="https://img.shields.io/badge/ALU-Arithmetic_Logic_Design-FF8C00?style=flat-square" alt="ALU Design" /><br />
-      <img src="https://img.shields.io/badge/Processor-RTL_to_CPU_Path-DC143C?style=flat-square" alt="Processor Design" /><br />
-      <img src="https://img.shields.io/badge/Memory-Registers_%26_Storage-9370DB?style=flat-square" alt="Memory and Registers" /><br />
+      <img src="https://img.shields.io/badge/FSM-Next_RTL_Topic-6A5ACD?style=flat-square" alt="Finite State Machines" /><br />
+      <img src="https://img.shields.io/badge/Computer_Architecture-Future_Topic-20B2AA?style=flat-square" alt="Computer Architecture" /><br />
+      <img src="https://img.shields.io/badge/ALU-Next_Project-FF8C00?style=flat-square" alt="ALU Design" /><br />
+      <img src="https://img.shields.io/badge/RISC--V-Long_Term_Goal-DC143C?style=flat-square" alt="Processor Design" /><br />
+      <img src="https://img.shields.io/badge/Memory-Next_Concepts-9370DB?style=flat-square" alt="Memory and Registers" /><br />
       <img src="https://img.shields.io/badge/Timing-Setup_%26_Hold_Basics-4682B4?style=flat-square" alt="Timing Basics" /><br />
       <img src="https://img.shields.io/badge/RTL_Verification-Testbench_%26_Waveform_Debug-8A2BE2?style=flat-square" alt="RTL Verification" />
       <br /><br />
@@ -59,17 +59,17 @@ I'm an engineering student who genuinely loves the moment a waveform finally mat
       <img src="https://img.shields.io/badge/C-Systems_%26_Bitwise-A8B9CC?style=flat-square&logo=c" alt="C" /><br />
       <img src="https://img.shields.io/badge/C++-OOP_%26_Performance-00599C?style=flat-square&logo=cplusplus" alt="C++" /><br />
       <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git" alt="Git" /><br />
-      <img src="https://img.shields.io/badge/Icarus_Verilog-RTL_Simulation-blue?style=flat-square" alt="Icarus Verilog" /><br />
+      <img src="https://img.shields.io/badge/Icarus_Verilog-Earlier_Exercises-blue?style=flat-square" alt="Icarus Verilog" /><br />
       <img src="https://img.shields.io/badge/GTKWave-Waveform_Analysis-orange?style=flat-square" alt="GTKWave" /><br />
-      <img src="https://img.shields.io/badge/Verilator-Lint_%26_Simulation-5C4EE5?style=flat-square" alt="Verilator" /><br />
+      <img src="https://img.shields.io/badge/Verilator-Primary_Simulator_%26_Linter-5C4EE5?style=flat-square" alt="Verilator" /><br />
       <img src="https://img.shields.io/badge/Docker-EDA_Environment-2496ED?style=flat-square&logo=docker" alt="Docker" /><br />
       <img src="https://img.shields.io/badge/OpenROAD-Physical_Design-008CBA?style=flat-square" alt="OpenROAD" />
       <br /><br />
-      <b>⚙️ RTL-to-GDSII Flow in Use</b><br /><br />
+      <b>⚙️ Open-Source RTL-to-GDSII Experience</b><br /><br />
       <img src="https://img.shields.io/badge/Yosys-Logic_Synthesis-CC0000?style=flat-square" alt="Yosys logic synthesis" />
       <img src="https://img.shields.io/badge/OpenROAD_Flow_Scripts-RTL_to_GDSII-008CBA?style=flat-square" alt="OpenROAD Flow Scripts" /><br />
       <img src="https://img.shields.io/badge/Nangate45-Standard_Cell_Library-64748B?style=flat-square" alt="Nangate45 standard cell library" />
-      <p><sub>Currently applying these in the RTL-to-GDSII project flow: synthesis through Yosys/ORFS, followed by OpenROAD physical design using the Nangate45 platform.</sub></p>
+      <p><sub>An introductory ORFS run used Yosys synthesis and OpenROAD physical-design stages on the Nangate45 platform. Deeper timing analysis and signoff checks remain future learning tasks.</sub></p>
     </td>
   </tr>
 </table>
@@ -81,14 +81,13 @@ RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Veri
 
 ---
 
-## 📊 Engineering Progress
+## 📍 Current Learning Status
 
-- **Phase I — Foundation (Verilog, C, Linux)** ![Progress](https://geps.dev/progress/78)
-- **Phase II — VLSI Core (SystemVerilog, RISC-V)** ![Progress](https://geps.dev/progress/30)
-- **Phase III — Embedded (STM32, RTOS, PCB)** ![Progress](https://geps.dev/progress/0)
-- **Phase IV — Robotics (ROS 2, Computer Vision)** ![Progress](https://geps.dev/progress/0)
-- **Phase V — Software (DSA, Advanced C++)** ![Progress](https://geps.dev/progress/55)
-- **Phase VI — Future Tech (AI Hardware, Chiplets)** ![Progress](https://geps.dev/progress/5)
+- ✅ **Completed foundation:** Combinational RTL — logic gates, MUX/DEMUX, encoders/decoders and hierarchical designs — plus basic and resettable D flip-flops. [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals)
+- 🔄 **In progress:** Mastering the Verilator workflow and learning SystemVerilog through sequential RTL. The JK flip-flop is a current learning target, not yet a completed public project.
+- 🧪 **Introductory ASIC-flow experience:** Ran OpenROAD Flow Scripts in Docker for a 6-to-64 decoder using the Nangate45 platform; GDS/ODB/DEF and a layout preview were generated. The run reported a missing-clock timing warning, so timing closure/signoff is **not claimed**. [Flow project](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects/tree/main/01_Decoder_6to64)
+- ➡️ **Next, in order:** deepen SystemVerilog → Python for verification → cocotb → standalone Yosys synthesis and OpenSTA timing constraints/reports.
+- 🧭 **Optional / later:** embedded systems, PCB design, robotics and computer vision remain interests, but are not the primary current track.
 
 ---
 

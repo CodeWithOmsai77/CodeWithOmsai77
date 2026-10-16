@@ -27,6 +27,7 @@ I'm an engineering student who genuinely loves the moment a waveform finally mat
 - 📂 **[Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals)** — Digital logic foundations, hierarchical MUX/DEMUX designs, and introductory RTL exercises.
 - 📂 **[Progress-Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker)** — A structured roadmap for VLSI and electronics learning.
 - 📂 **[python-learning](https://github.com/CodeWithOmsai77/python-learning)** — Chapter-wise Python learning and scripting practice.
+- 📂 **[Java-Learning](https://github.com/CodeWithOmsai77/Java-Learning)** — Core Java practice covering fundamentals, loops, arrays, methods, object-oriented programming, and small applications.
 
 ---
 

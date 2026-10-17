@@ -1,129 +1,207 @@
-<h1 align="center">Hi 👋, I'm Omsai</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring ASIC / RTL Design Engineer — Digital Logic to Silicon ⚡
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:075985,100:06B6D4&height=190&section=header&text=Omsai&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=RTL%20Design%20%7C%20Digital%20Hardware%20%7C%20ASIC%20Flow&descAlignY=62&descSize=17" width="100%" alt="Omsai — RTL Design and ASIC Flow" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=RTL+Design+%7C+Verilog;Digital+IC+Design;From+Logic+Gates+to+RISC-V;Building%2C+Simulating%2C+Debugging;Every+Waveform+Tells+a+Story" alt="Animated RTL design tagline" />
-</p>
+### Aspiring ASIC / RTL Design Engineer
 
-## About Me
+*Building digital hardware from logic design through simulation, verification, and physical-design exploration.*
 
-I'm an engineering student who genuinely loves the moment a waveform finally matches what's in my head. Somewhere between a truth table and a clean simulation, digital logic just *clicked* for me — and now I'm chasing that all the way to silicon.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Design+RTL.+Verify+Behavior.+Debug+with+Evidence.;SystemVerilog+%7C+Verilator+%7C+Cocotb;From+Truth+Tables+to+Physical+Design" alt="RTL design learning tagline" />
 
-🔭 Focused on becoming an **ASIC / RTL Design Engineer**  
-📐 My path: Digital Logic → Verilog → RTL Design → SystemVerilog → RTL Verification → Computer Architecture → RISC-V → ASIC Design Flow  
-🧩 I don't call a design "done" just because it compiles — every module goes through: understand the spec → derive the logic → write the RTL myself → simulate → debug → verify → understand *why* it works  
-⚡ Long-term interest: AI hardware accelerators, systolic arrays, and compute architectures
+<a href="https://github.com/CodeWithOmsai77"><img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/omsai-dasari-b18b55381"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br clear="right"/>
+</div>
+
+---
+
+## 👋 About Me
+
+I'm an engineering student focused on **RTL design, digital IC design, and ASIC design flows**. I enjoy turning a specification into logic, writing RTL, simulating the behavior, debugging failures, and understanding why the design works.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Focus</h3>
+      <ul>
+        <li>Sequential RTL and SystemVerilog</li>
+        <li>Verilator linting and simulation workflow</li>
+        <li>Python-based verification with Cocotb</li>
+        <li>Reading synthesis and physical-design reports</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 Long-Term Direction</h3>
+      <ul>
+        <li>Strong RTL design and verification fundamentals</li>
+        <li>Computer architecture and RISC-V</li>
+        <li>Open-source ASIC implementation</li>
+        <li>Digital hardware for compute and AI accelerators</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Featured Repositories
 
-- 📂 **[RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects)** — Hands-on digital design progressing from RTL simulation to OpenROAD physical design, including a 6-to-64 decoder with GDS, ODB, DEF, and layout visualization.
-- 📂 **[Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals)** — Digital logic foundations, hierarchical MUX/DEMUX designs, and introductory RTL exercises.
-- 📂 **[Progress-Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker)** — A structured roadmap for VLSI and electronics learning.
-- 📂 **[python-learning](https://github.com/CodeWithOmsai77/python-learning)** — Chapter-wise Python learning and scripting practice.
-- 📂 **[Java-Learning](https://github.com/CodeWithOmsai77/Java-Learning)** — Core Java practice covering fundamentals, loops, arrays, methods, object-oriented programming, and small applications.
-
----
-
-## 🛠️ Toolchain & Skills
-
-<table border="0">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 Hardware, RTL & Chip Design</b><br /><br />
-      <img src="https://img.shields.io/badge/Verilog-RTL_Design-FF4B4B?style=flat-square" alt="Verilog RTL Design" /><br />
-      <img src="https://img.shields.io/badge/Digital_Logic-Combinational_RTL_Foundation-1E90FF?style=flat-square" alt="Digital Design" /><br />
-      <img src="https://img.shields.io/badge/SystemVerilog-Learning-6A5ACD?style=flat-square" alt="SystemVerilog" /><br />
-      <img src="https://img.shields.io/badge/FSM-Next_RTL_Topic-6A5ACD?style=flat-square" alt="Finite State Machines" /><br />
-      <img src="https://img.shields.io/badge/Computer_Architecture-Future_Topic-20B2AA?style=flat-square" alt="Computer Architecture" /><br />
-      <img src="https://img.shields.io/badge/ALU-Next_Project-FF8C00?style=flat-square" alt="ALU Design" /><br />
-      <img src="https://img.shields.io/badge/RISC--V-Long_Term_Goal-DC143C?style=flat-square" alt="Processor Design" /><br />
-      <img src="https://img.shields.io/badge/Memory-Next_Concepts-9370DB?style=flat-square" alt="Memory and Registers" /><br />
-      <img src="https://img.shields.io/badge/Timing-Setup_%26_Hold_Basics-4682B4?style=flat-square" alt="Timing Basics" /><br />
-      <img src="https://img.shields.io/badge/RTL_Verification-Testbench_%26_Waveform_Debug-8A2BE2?style=flat-square" alt="RTL Verification" />
-      <br /><br />
-      <b>🔬 Verification Concepts</b><br /><br />
-      <img src="https://img.shields.io/badge/Testbenches-Self_Checking_%26_Debug-008080?style=flat-square" alt="Testbenches" /><br />
-      <img src="https://img.shields.io/badge/Methodology-Spec_%E2%86%92_RTL_%E2%86%92_Verify-64748B?style=flat-square" alt="Design methodology" />
+      <h3>⚙️ <a href="https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects">RTL-to-GDSII Projects</a></h3>
+      <p>Digital design projects exploring RTL, synthesis, and OpenROAD physical-design stages.</p>
+      <p><img src="https://img.shields.io/badge/Focus-RTL%20to%20Physical%20Design-0E7490?style=flat-square" alt="RTL to physical design" /></p>
+      <sub>Includes an introductory 6-to-64 decoder flow with layout and generated design artifacts. Timing closure and signoff are not claimed.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>💻 Software, Systems & EDA Toolchain</b><br /><br />
-      <img src="https://img.shields.io/badge/Linux-WSL2_Environment-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /><br />
-      <img src="https://img.shields.io/badge/Bash-Scripting_%26_Automation-4EAA25?style=flat-square&logo=gnubash" alt="Bash" /><br />
-      <img src="https://img.shields.io/badge/Python-Automation_%26_Tooling-3776AB?style=flat-square&logo=python" alt="Python" /><br />
-      <img src="https://img.shields.io/badge/C-Systems_%26_Bitwise-A8B9CC?style=flat-square&logo=c" alt="C" /><br />
-      <img src="https://img.shields.io/badge/C++-OOP_%26_Performance-00599C?style=flat-square&logo=cplusplus" alt="C++" /><br />
-      <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git" alt="Git" /><br />
-      <img src="https://img.shields.io/badge/Icarus_Verilog-Earlier_Exercises-blue?style=flat-square" alt="Icarus Verilog" /><br />
-      <img src="https://img.shields.io/badge/GTKWave-Waveform_Analysis-orange?style=flat-square" alt="GTKWave" /><br />
-      <img src="https://img.shields.io/badge/Verilator-Primary_Simulator_%26_Linter-5C4EE5?style=flat-square" alt="Verilator" /><br />
-      <img src="https://img.shields.io/badge/Docker-EDA_Environment-2496ED?style=flat-square&logo=docker" alt="Docker" /><br />
-      <img src="https://img.shields.io/badge/OpenROAD-Physical_Design-008CBA?style=flat-square" alt="OpenROAD" />
-      <br /><br />
-      <b>⚙️ Open-Source RTL-to-GDSII Experience</b><br /><br />
-      <img src="https://img.shields.io/badge/Yosys-Logic_Synthesis-CC0000?style=flat-square" alt="Yosys logic synthesis" />
-      <img src="https://img.shields.io/badge/OpenROAD_Flow_Scripts-RTL_to_GDSII-008CBA?style=flat-square" alt="OpenROAD Flow Scripts" /><br />
-      <img src="https://img.shields.io/badge/Nangate45-Standard_Cell_Library-64748B?style=flat-square" alt="Nangate45 standard cell library" />
-      <p><sub>An introductory ORFS run used Yosys synthesis and OpenROAD physical-design stages on the Nangate45 platform. Deeper timing analysis and signoff checks remain future learning tasks.</sub></p>
+      <h3>🔌 <a href="https://github.com/CodeWithOmsai77/Verilog-Fundamentals">Verilog Fundamentals</a></h3>
+      <p>Digital logic foundations, combinational circuits, hierarchical MUX/DEMUX designs, encoders, decoders, and sequential RTL exercises.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Digital%20Logic%20%26%20RTL-2563EB?style=flat-square" alt="Digital logic and RTL" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/CodeWithOmsai77/Progress-Tracker">Progress Tracker</a></h3>
+      <p>A structured roadmap for tracking RTL, verification, synthesis, timing analysis, and physical-design learning.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Learning%20Roadmap-64748B?style=flat-square" alt="Learning roadmap" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/CodeWithOmsai77/python-learning">Python Learning</a></h3>
+      <p>Chapter-based Python practice and small scripts—building programming fundamentals useful for verification automation.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Python%20Practice-3776AB?style=flat-square&logo=python" alt="Python practice" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/CodeWithOmsai77/Java-Learning">Java Learning</a></h3>
+      <p>Core Java practice covering fundamentals, loops, arrays, methods, object-oriented programming, and small applications.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Current Build-and-Verify Workflow</h3>
+      <p>SystemVerilog RTL → lint → Verilator build → Cocotb tests → waveform inspection.</p>
+      <p><img src="https://img.shields.io/badge/Workflow-Design%20%26%20Verification-0F766E?style=flat-square" alt="Design and verification workflow" /></p>
+      <sub>Working toward reusable testbenches and more independent debugging.</sub>
     </td>
   </tr>
 </table>
 
-```text
-RTL Design → Testbench → Simulation → Waveform Analysis → Debug → Verify
-          → Synthesis → Timing Analysis → Physical Design → GDSII
-```
+---
+
+## 🧰 Toolchain & Skills
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 RTL & Digital Design</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog-Foundation-FF4B4B?style=flat-square" alt="Verilog" />
+        <img src="https://img.shields.io/badge/SystemVerilog-Learning-6A5ACD?style=flat-square" alt="SystemVerilog learning" />
+        <img src="https://img.shields.io/badge/Digital%20Logic-Combinational%20RTL-1D4ED8?style=flat-square" alt="Combinational RTL" />
+        <img src="https://img.shields.io/badge/Sequential%20RTL-In%20Progress-6D28D9?style=flat-square" alt="Sequential RTL" />
+      </p>
+      <h3>🔬 Verification</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Verilator-Primary%20Simulator%20%26%20Linter-5C4EE5?style=flat-square" alt="Verilator" />
+        <img src="https://img.shields.io/badge/Cocotb-Python%20Verification-24A148?style=flat-square" alt="Cocotb" />
+        <img src="https://img.shields.io/badge/GTKWave-Waveform%20Inspection-orange?style=flat-square" alt="GTKWave" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Synthesis & Physical Design</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Yosys-Synthesis%20Practice-CC0000?style=flat-square" alt="Yosys" />
+        <img src="https://img.shields.io/badge/OpenROAD-ORFS%20Practice-008CBA?style=flat-square" alt="OpenROAD" />
+        <img src="https://img.shields.io/badge/Nangate45-Standard%20Cell%20Platform-64748B?style=flat-square" alt="Nangate45" />
+        <img src="https://img.shields.io/badge/Docker-EDA%20Environment-2496ED?style=flat-square&logo=docker" alt="Docker" />
+      </p>
+      <h3>💻 Software & Workflow</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Python-Fundamentals-3776AB?style=flat-square&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/Bash-CLI%20Automation-4EAA25?style=flat-square&logo=gnubash" alt="Bash" />
+        <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git" alt="Git" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<sub>Experience note: the 6-to-64 decoder has been taken through an introductory ORFS run using Yosys and OpenROAD on Nangate45. Further work remains on timing constraints, report analysis, and physical-design checks.</sub>
 
 ---
 
 ## 📊 Engineering Progress
 
-Progress bars now follow the **five-stage RTL / ASIC roadmap** in my [Progress Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker). Percentages are practical estimates of milestone completion, not measures of professional proficiency.
+<p align="left">
+  <img src="https://img.shields.io/badge/ROADMAP-5%20PHASES-0F172A?style=for-the-badge" alt="Five-phase roadmap" />
+  <img src="https://img.shields.io/badge/FOCUS-RTL%20%2B%20VERIFICATION-0E7490?style=for-the-badge" alt="RTL and verification focus" />
+</p>
 
-- **Phase 1 — Combinational RTL Foundations** ![Progress](https://geps.dev/progress/100)  
-  Gates, MUX/DEMUX, encoders/decoders and hierarchical designs are represented in [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals). This percentage covers the defined combinational-foundation milestone, not every possible digital-design topic.
-- **Phase 2 — Sequential RTL, Verilator & SystemVerilog** ![Progress](https://geps.dev/progress/35)  
-  D flip-flop and resettable DFF foundations are implemented; Verilator workflow mastery and SystemVerilog/JK flip-flop work are in progress.
-- **Phase 3 — Python for Verification & cocotb** ![Progress](https://geps.dev/progress/10)  
-  Next after the current sequential RTL and simulator-workflow foundations.
-- **Phase 4 — Synthesis, STA & Deeper Physical Design** ![Progress](https://geps.dev/progress/20)  
-  One introductory RTL-to-GDSII flow was run for a 6-to-64 decoder. Standalone synthesis/report analysis, correct timing constraints and deeper physical checks remain.
-- **Phase 5 — Advanced RTL Projects & Computer Architecture** ![Progress](https://geps.dev/progress/0)  
-  Planned next-level milestones include FSMs, ALU, FIFO/UART and later CPU/RISC-V work.
+Progress bars represent **estimated milestone completion**, not professional proficiency. The full checklist and project evidence are maintained in the [Progress Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker).
 
-<sub>Optional / later: embedded systems, PCB design, robotics and computer vision remain interests outside the primary RTL/ASIC sequence. Track details and evidence are in the [Progress Tracker](https://github.com/CodeWithOmsai77/Progress-Tracker).</sub>
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Milestone Progress</th>
+      <th>Current Evidence / Next Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>01 · Combinational RTL</strong><br /><sub>Foundation milestone</sub></td>
+      <td><img src="https://geps.dev/progress/100" alt="100 percent complete" width="120" /></td>
+      <td>Gates, MUX/DEMUX, encoders, decoders, and hierarchical designs in <a href="https://github.com/CodeWithOmsai77/Verilog-Fundamentals">Verilog-Fundamentals</a>.</td>
+    </tr>
+    <tr>
+      <td><strong>02 · Sequential RTL & SystemVerilog</strong><br /><sub>Current focus</sub></td>
+      <td><img src="https://geps.dev/progress/35" alt="35 percent complete" width="120" /></td>
+      <td>DFF and resettable-DFF foundations; strengthening SystemVerilog syntax, Verilator workflow, and JKFF implementation.</td>
+    </tr>
+    <tr>
+      <td><strong>03 · Python Verification & Cocotb</strong></td>
+      <td><img src="https://geps.dev/progress/10" alt="10 percent complete" width="120" /></td>
+      <td>Learning to write reusable Python testbenches, self-checking assertions, and simulation-driven verification.</td>
+    </tr>
+    <tr>
+      <td><strong>04 · Synthesis, STA & Physical Design</strong></td>
+      <td><img src="https://geps.dev/progress/20" alt="20 percent complete" width="120" /></td>
+      <td>Introductory 6-to-64 decoder RTL-to-GDSII flow; next focus is constraints, synthesis reports, timing analysis, and deeper checks.</td>
+    </tr>
+    <tr>
+      <td><strong>05 · Advanced RTL & Architecture</strong></td>
+      <td><img src="https://geps.dev/progress/0" alt="0 percent complete" width="120" /></td>
+      <td>Planned milestones: FSMs, ALU, FIFO/UART, followed later by CPU and RISC-V concepts.</td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>Optional later interests—embedded systems, PCB design, robotics, and computer vision—remain outside the primary RTL/ASIC roadmap.</sub>
 
 ---
 
 ## 💼 Target Roles
 
-**ASIC RTL Design Engineer · Digital IC Design Engineer · RTL Verification Engineer**
+<p>
+  <img src="https://img.shields.io/badge/Target-RTL%20Design-0E7490?style=flat-square" alt="RTL Design" />
+  <img src="https://img.shields.io/badge/Target-Digital%20IC%20Design-2563EB?style=flat-square" alt="Digital IC Design" />
+  <img src="https://img.shields.io/badge/Target-RTL%20Verification-6D28D9?style=flat-square" alt="RTL Verification" />
+</p>
+
+Preparing for internship opportunities while building stronger independent RTL design, verification, and debugging skills.
 
 ---
 
 ## 📬 Connect
 
-<p align="left">
-  <a href="https://github.com/CodeWithOmsai77">
-    <img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381">
-    <img src="https://img.shields.io/badge/LinkedIn-Omsai_Dasari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/CodeWithOmsai77"><img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381"><img src="https://img.shields.io/badge/LinkedIn-Omsai%20Dasari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 
----
-
-<p align="center">
-  ⭐ <b>Real Skills • Verified Projects • Consistent Growth • Long-Term Vision</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=90&section=footer&text=Keep%20Building&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Keep building" />
-</p>
+<div align="center">
+  <sub>⭐ Real skills. Tested designs. Honest progress. Consistent growth.</sub>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=100&section=footer" width="100%" alt="Decorative footer" />
+</div>

@@ -77,10 +77,10 @@ I'm an engineering student focused on **RTL design, digital IC design, and ASIC 
       <p><img src="https://img.shields.io/badge/Focus-Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 Current Build-and-Verify Workflow</h3>
-      <p>SystemVerilog RTL → lint → Verilator build → Cocotb tests → waveform inspection.</p>
-      <p><img src="https://img.shields.io/badge/Workflow-Design%20%26%20Verification-0F766E?style=flat-square" alt="Design and verification workflow" /></p>
-      <sub>Working toward reusable testbenches and more independent debugging.</sub>
+      <h3>💻 <a href="https://github.com/CodeWithOmsai77/C-Programming-and-DSA">C Programming &amp; DSA</a></h3>
+      <p>A numbered C learning path from Hello World and core syntax through arrays, strings, pointers, structures, and introductory data structures.</p>
+      <p><img src="https://img.shields.io/badge/Focus-C%20Programming%20%26%20DSA-0F766E?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C Programming and Data Structures" /></p>
+      <sub>Includes five approachable console projects: number guessing game, calculator, student grade manager, quiz, and expense tracker.</sub>
     </td>
   </tr>
 </table>

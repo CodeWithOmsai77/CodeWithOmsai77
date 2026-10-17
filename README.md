@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:075985,100:06B6D4&height=190&section=header&text=Omsai&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=RTL%20Design%20%7C%20Digital%20Hardware%20%7C%20ASIC%20Flow&descAlignY=62&descSize=17" width="100%" alt="Omsai — RTL Design and ASIC Flow" />
 
-### Aspiring ASIC / RTL Design Engineer
-
 *Building digital hardware from logic design through simulation, verification, and physical-design exploration.*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Design+RTL.+Verify+Behavior.+Debug+with+Evidence.;SystemVerilog+%7C+Verilator+%7C+Cocotb;From+Truth+Tables+to+Physical+Design" alt="RTL design learning tagline" />
@@ -193,12 +191,6 @@ Preparing for internship opportunities while building stronger independent RTL d
 
 ---
 
-## 📬 Connect
-
-<div align="center">
-  <a href="https://github.com/CodeWithOmsai77"><img src="https://img.shields.io/badge/GitHub-CodeWithOmsai77-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/omsai-dasari-b18b55381"><img src="https://img.shields.io/badge/LinkedIn-Omsai%20Dasari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
 
 <div align="center">
   <sub>⭐ Real skills. Tested designs. Honest progress. Consistent growth.</sub>

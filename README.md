@@ -154,12 +154,12 @@ Progress bars represent **estimated milestone completion**, not professional pro
     </tr>
     <tr>
       <td><strong>02 · Sequential RTL & SystemVerilog</strong><br /><sub>Current focus</sub></td>
-      <td><img src="https://geps.dev/progress/35" alt="35 percent complete" width="120" /></td>
+      <td><img src="https://geps.dev/progress/35" alt="40 percent complete" width="120" /></td>
       <td>DFF and resettable-DFF foundations; strengthening SystemVerilog syntax, Verilator workflow, and JKFF implementation.</td>
     </tr>
     <tr>
       <td><strong>03 · Python Verification & Cocotb</strong></td>
-      <td><img src="https://geps.dev/progress/10" alt="10 percent complete" width="120" /></td>
+      <td><img src="https://geps.dev/progress/10" alt="12 percent complete" width="120" /></td>
       <td>Learning to write reusable Python testbenches, self-checking assertions, and simulation-driven verification.</td>
     </tr>
     <tr>

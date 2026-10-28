@@ -154,18 +154,18 @@ Progress bars represent **estimated milestone completion**, not professional pro
     </tr>
     <tr>
       <td><strong>02 · Sequential RTL & SystemVerilog</strong><br /><sub>Current focus</sub></td>
-      <td><img src="https://geps.dev/progress/35" alt="40 percent complete" width="120" /></td>
-      <td>DFF and resettable-DFF foundations; strengthening SystemVerilog syntax, Verilator workflow, and JKFF implementation.</td>
+      <td><img src="https://geps.dev/progress/50" alt="50 percent complete" width="120" /></td>
+      <td>Implemented and simulated DFF with asynchronous reset, TFF, JK FF, and SR FF. Currently building a parameterized 4-bit SISO shift register; next focus is stronger SystemVerilog and Verilator workflow.</td>
     </tr>
     <tr>
       <td><strong>03 · Python Verification & Cocotb</strong></td>
-      <td><img src="https://geps.dev/progress/10" alt="12 percent complete" width="120" /></td>
-      <td>Learning to write reusable Python testbenches, self-checking assertions, and simulation-driven verification.</td>
+      <td><img src="https://geps.dev/progress/20" alt="20 percent complete" width="120" /></td>
+      <td>Cocotb testbenches have exercised the DFF, TFF, JK FF, and SR FF designs. Next focus is more reusable self-checking tests, corner cases, and regression workflow.</td>
     </tr>
     <tr>
       <td><strong>04 · Synthesis, STA & Physical Design</strong></td>
       <td><img src="https://geps.dev/progress/20" alt="20 percent complete" width="120" /></td>
-      <td>Introductory 6-to-64 decoder RTL-to-GDSII flow; next focus is constraints, synthesis reports, timing analysis, and deeper checks.</td>
+      <td>Completed an introductory 6-to-64 decoder RTL-to-GDSII flow and explored synthesis/physical-design stages for sequential designs. Next focus is reliable end-to-end runs, constraints, report analysis, and timing checks.</td>
     </tr>
     <tr>
       <td><strong>05 · Advanced RTL & Architecture</strong></td>
@@ -176,7 +176,6 @@ Progress bars represent **estimated milestone completion**, not professional pro
 </table>
 
 <sub>Optional later interests—embedded systems, PCB design, robotics, and computer vision—remain outside the primary RTL/ASIC roadmap.</sub>
-
 ---
 
 ## 💼 Target Roles

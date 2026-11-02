@@ -113,6 +113,7 @@ I'm an engineering student focused on **RTL design, digital IC design, and ASIC 
         <img src="https://img.shields.io/badge/OpenROAD-ORFS%20Practice-008CBA?style=flat-square" alt="OpenROAD" />
         <img src="https://img.shields.io/badge/Nangate45-Standard%20Cell%20Platform-64748B?style=flat-square" alt="Nangate45" />
         <img src="https://img.shields.io/badge/Docker-EDA%20Environment-2496ED?style=flat-square&logo=docker" alt="Docker" />
+        <img src="https://img.shields.io/badge/Xilinx%20Vivado-FPGA%20Design- E01F27?style=flat-square&logo=amd" alt="Xilinx Vivado" />
       </p>
       <h3>💻 Software & Workflow</h3>
       <p>

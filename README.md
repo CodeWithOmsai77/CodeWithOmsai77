@@ -47,40 +47,31 @@ I'm an engineering student focused on **RTL design, digital IC design, and ASIC 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/CodeWithOmsai77/PCB-Vision-Inspector">PCB Vision Inspector</a></h3>
+      <p>An AI-assisted PCB defect detection project using a YOLO11n model trained to localize six defect categories. Phase 01 baseline training and independent test evaluation are complete; Phase 02 is focused on building a Streamlit inspection application.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20PCB%20Inspection-059669?style=flat-square" alt="Computer vision and PCB inspection" /></p>
+      <sub>Python · PyTorch · Ultralytics YOLO11n · OpenCV · Streamlit (planned)</sub>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚙️ <a href="https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects">RTL-to-GDSII Projects</a></h3>
-      <p>Digital design projects exploring RTL, synthesis, and OpenROAD physical-design stages.</p>
+      <p>Digital design projects exploring RTL development, simulation, verification, synthesis, and introductory OpenROAD physical-design stages.</p>
       <p><img src="https://img.shields.io/badge/Focus-RTL%20to%20Physical%20Design-0E7490?style=flat-square" alt="RTL to physical design" /></p>
-      <sub>Includes an introductory 6-to-64 decoder flow with layout and generated design artifacts. Timing closure and signoff are not claimed.</sub>
+      <sub>Verilog · SystemVerilog · Verilator · Cocotb · Yosys · OpenROAD</sub>
+      <br /><sub>Educational implementation work; timing closure and signoff are not claimed.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 <a href="https://github.com/CodeWithOmsai77/FlameGuard-Fire-Detection">FlameGuard — Fire Detection</a></h3>
+      <p>An Arduino-based embedded system that reads a flame sensor, displays detection status on a 16×2 I2C LCD, and sends status updates through an HC-05 Bluetooth module.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Embedded%20Systems-DC2626?style=flat-square" alt="Embedded systems" /></p>
+      <sub>Arduino Uno · Flame Sensor · I2C LCD · HC-05 Bluetooth</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🔌 <a href="https://github.com/CodeWithOmsai77/Verilog-Fundamentals">Verilog Fundamentals</a></h3>
-      <p>Digital logic foundations, combinational circuits, hierarchical MUX/DEMUX designs, encoders, decoders, and sequential RTL exercises.</p>
+      <p>A practical collection of digital logic and RTL exercises covering combinational circuits, hierarchical designs, encoders, decoders, multiplexers, demultiplexers, and sequential logic.</p>
       <p><img src="https://img.shields.io/badge/Focus-Digital%20Logic%20%26%20RTL-2563EB?style=flat-square" alt="Digital logic and RTL" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/CodeWithOmsai77/Progress-Tracker">Progress Tracker</a></h3>
-      <p>A structured roadmap for tracking RTL, verification, synthesis, timing analysis, and physical-design learning.</p>
-      <p><img src="https://img.shields.io/badge/Focus-Learning%20Roadmap-64748B?style=flat-square" alt="Learning roadmap" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/CodeWithOmsai77/python-learning">Python Learning</a></h3>
-      <p>Chapter-based Python practice and small scripts—building programming fundamentals useful for verification automation.</p>
-      <p><img src="https://img.shields.io/badge/Focus-Python%20Practice-3776AB?style=flat-square&logo=python" alt="Python practice" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/CodeWithOmsai77/Java-Learning">Java Learning</a></h3>
-      <p>Core Java practice covering fundamentals, loops, arrays, methods, object-oriented programming, and small applications.</p>
-      <p><img src="https://img.shields.io/badge/Focus-Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/CodeWithOmsai77/C-Programming-and-DSA">C Programming &amp; DSA</a></h3>
-      <p>A numbered C learning path from Hello World and core syntax through arrays, strings, pointers, structures, and introductory data structures.</p>
-      <p><img src="https://img.shields.io/badge/Focus-C%20Programming%20%26%20DSA-0F766E?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C Programming and Data Structures" /></p>
-      <sub>Includes five approachable console projects: number guessing game, calculator, student grade manager, quiz, and expense tracker.</sub>
+      <sub>Verilog · SystemVerilog · Icarus Verilog · Verilator · GTKWave</sub>
     </td>
   </tr>
 </table>

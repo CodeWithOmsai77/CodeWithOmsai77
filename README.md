@@ -74,6 +74,20 @@ I'm an engineering student focused on **RTL design, digital IC design, and ASIC 
       <sub>Verilog · SystemVerilog · Icarus Verilog · Verilator · GTKWave</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/CodeWithOmsai77/Python-Programming">Python Programming</a></h3>
+      <p>A chapter-wise Python learning repository covering fundamentals, data structures, conditions, loops, functions, object-oriented programming, practice exercises, and small projects.</p>
+      <p><img src="https://img.shields.io/badge/Focus-Python%20Programming-3776AB?style=flat-square&logo=python" alt="Python programming" /></p>
+      <sub>Python · Programming Fundamentals · OOP · Problem Solving</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/CodeWithOmsai77/C-Programming-and-DSA">C Programming &amp; DSA</a></h3>
+      <p>A structured C learning path covering programming fundamentals, arrays, strings, pointers, structures, introductory data structures, and console-based practice projects.</p>
+      <p><img src="https://img.shields.io/badge/Focus-C%20Programming%20%26%20DSA-0F766E?style=flat-square&logo=c&logoColor=white" alt="C programming and data structures" /></p>
+      <sub>C · Data Structures · Problem Solving · Console Projects</sub>
+    </td>
+  </tr>
 </table>
 
 ---

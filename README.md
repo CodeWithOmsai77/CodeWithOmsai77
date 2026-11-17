@@ -42,6 +42,23 @@ I'm an engineering student focused on **RTL design, digital IC design, and ASIC 
 
 ---
 
+
+
+## 📌 Current Engineering Track
+
+My primary technical direction is **RTL Design and Design Verification**, supported by practical digital-design projects and an introductory open-source ASIC implementation workflow.
+
+| Focus area | Current work | Evidence |
+|---|---|---|
+| RTL design | Verilog fundamentals, combinational and sequential circuits | [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) |
+| Structured problem-solving | 50 progressively difficult RTL challenges, from beginner to advanced | [50-RTL-Design-Challenges](https://github.com/CodeWithOmsai77/50-RTL-Design-Challenges) *(training repository planned)* |
+| Verification | Self-checking Verilog testbenches, simulation, waveform debugging and Cocotb practice | [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) · [RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects) |
+| ASIC implementation | Introductory Yosys and OpenROAD Flow Scripts experiments using Nangate45 | [RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects) |
+
+The 50-project track is intended to strengthen independent specification analysis, RTL architecture, implementation, verification and debugging. It is a learning plan, not a claim that all 50 projects are complete.
+
+---
+
 ## 🏆 Featured Repositories
 
 <table>

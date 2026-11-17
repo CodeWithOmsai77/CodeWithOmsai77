@@ -25,6 +25,7 @@ I'm an engineering student focused on **RTL design, digital IC design, and ASIC 
         <li>Sequential RTL and SystemVerilog</li>
         <li>Verilator linting and simulation workflow</li>
         <li>Python-based verification with Cocotb</li>
+        <li>Working through 50 progressively difficult RTL design challenges</li>
         <li>Reading synthesis and physical-design reports</li>
       </ul>
     </td>
@@ -51,7 +52,7 @@ My primary technical direction is **RTL Design and Design Verification**, suppor
 | Focus area | Current work | Evidence |
 |---|---|---|
 | RTL design | Verilog fundamentals, combinational and sequential circuits | [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) |
-| Structured problem-solving | 50 progressively difficult RTL challenges, from beginner to advanced | [50-RTL-Design-Challenges](https://github.com/CodeWithOmsai77/50-RTL-Design-Challenges) *(training repository planned)* |
+| Structured problem-solving | 50 progressively difficult RTL challenges, from beginner to advanced | [50-RTL-Design-Challenges](https://github.com/CodeWithOmsai77/50-RTL-Design-Challenges) *(challenge repository to be created)* |
 | Verification | Self-checking Verilog testbenches, simulation, waveform debugging and Cocotb practice | [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals) · [RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects) |
 | ASIC implementation | Introductory Yosys and OpenROAD Flow Scripts experiments using Nangate45 | [RTL-to-GDSII-Projects](https://github.com/CodeWithOmsai77/RTL-to-GDSII-Projects) |
 
